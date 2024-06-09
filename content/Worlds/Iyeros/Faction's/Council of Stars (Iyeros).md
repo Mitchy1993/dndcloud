@@ -1,7 +1,0 @@
-- [[Titania]], the classic queen of faeries and joy and happiness (almost tinkerbell-esque but not so disney)
-- [[Queen of Air and Darkness]], dark and broody, considered unconventionally 'evil' by many
-- [[Morwel]], the actual 'queen' & progenitor of the Eladrin, she's very literally bipolar
-- [[Faerinaal]], probably only met him once or twice, really likes to mess with mortals, more of a classic 'trickster' archfey
-- [[Kyrriphuth]], the one you probably know the least about. He controls a domain in the Fey Wild known as *[[Shinaclestra]]* i believe
-- [[Eireamhan]] you met, he was responsible for the first 'created' bridge between the Fey Wild and the mortal plane
-- [[Meliodous]], progenitor of song

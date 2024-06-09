@@ -1,1 +1,0 @@
-Towers created after the calamity to the west, believed to hold the destructive forces at bay

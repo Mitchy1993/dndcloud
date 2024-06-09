@@ -1,1 +1,0 @@
-Commemorative festival of [[Fredegor]]
