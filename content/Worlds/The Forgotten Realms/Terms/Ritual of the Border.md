@@ -1,0 +1,4 @@
+- **Ritual of the Border:**
+  - Powerful spell created by the elven mage [[Vraith]].
+  - Could enlarge the size of Plaguewrought Land or encapsulate rogue areas of Spellplague.
+  - Required volunteers, often resulting in their horrific deaths during the ritual.

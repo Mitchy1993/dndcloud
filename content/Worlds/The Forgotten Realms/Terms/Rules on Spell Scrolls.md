@@ -1,0 +1,6 @@
+1. **Learning from a Caster:** A non-caster can be taught to use a spell scroll by someone who already knows how to cast the spell. This teaching process might involve understanding the basics of the spell's incantation, gestures, and components. The teacher can impart this knowledge to the learner relatively quickly
+2. **Skill Check:** Once the non-caster has been taught the basics of the spell, they can attempt to use the spell scroll. Instead of making an ability check based on their spellcasting ability, they make a skill check relevant to the type of magic involved. For arcane spells, this could be an Arcana check, and for divine spells, it could be a Religion check. The DC for the check could be determined by the DM based on the complexity of the spell.
+
+3. **Success and Failure:** If the skill check succeeds, the spell is cast successfully from the scroll. If it fails, the spell fails to activate, but the scroll remains intact. The non-caster may have to spend additional time studying or practicing to improve their chances of success in the future.
+
+4. **Limited Use:** Only one spell scroll *should* be used per day by a person as the cheated magic creates dangerous unstable fields
