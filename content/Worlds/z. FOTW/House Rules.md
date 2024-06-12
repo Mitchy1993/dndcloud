@@ -24,7 +24,7 @@
 	1. Drinking a potion with an action yields full healing
 3. **Critical Criticals**
 	1. Critical hits double your damage dice like normal, except the second dice is maximized automatically
-4. Cure Wounds Buff
+4. Cure Wounds Buff *(One D&D Rule)*
 	1. [[cure-wounds|Cure Wounds]] uses 2d8, instead of 1d8, for healing at level 1
 5. **More Realistic Combat**
 	1. No strategizing during combat
@@ -45,12 +45,13 @@
   - Debuff removed by a Long Rest with appropriate accommodations.
 8. **Food Deprivation**:
   - Inadequate food leads to a stacking *hungry* debuff:
-    - -1 to all ability checks and saving throws.
+    - -1 to all *saving throws*.
   - After 3 days, *starving* debuff occurs, reducing Max HP by 20% daily until death.
     - Eating a full meal removes all hunger/starving debuffs.
     - Eating half a meal removes half of all hunger/starving debuffs.
     - Eating a snack prevents a stack for that day.
-9. **Opportunity Attacks**
-	- Disengage can be taken at the cost of half a creature's move speed unless threatened by two or more enemies
-	- If attacking creature has any feats related to opportunity attacks then they negate this method of disengaging.
-10. [[Rules on Spell Scrolls]]
+9. **Speedy Turns = Free Short Rest**
+	- Every time a player knows exactly what they want to do when their turn arrives the team will be able progress down a "***Speed Track***"
+		- *When the players complete the speed track they may take a free short rest at the end of battle (does not count towards their 2 short rest's per day.)*
+	- Speed Track Length = Total # of players multiplied by 2
+1. [[Rules on Spell Scrolls]]

@@ -61,10 +61,10 @@ imports:
 - Selene Deceased
 - Dopplegangers Deceased
 - Rat King Deceased
-- Vajra Spellbroken
+- Vajra Spellbroken & then Spellscarred
 - Southern Wards Purification cell defeated
 - Potter Pettigrew Saved
-- Timothy Thimbleton's party got head start off to the Plaguelands
+- Timothy Thimbleton's party delved into the Undercroft to stop the Arcane Ward breaking
 # Party 2
 - Melvaunt Southern Wards supervisor "[[Madeus]] killed"
 - Dopplegangers Deceased
