@@ -27,31 +27,29 @@
 4. Cure Wounds Buff *(One D&D Rule)*
 	1. [[cure-wounds|Cure Wounds]] uses 2d8, instead of 1d8, for healing at level 1
 5. **More Realistic Combat**
-	1. No strategizing during combat
+	1. No strategizing ***during*** combat
 		- Instead, you have 1 minute in between each round to strategize and then the round starts.
 		- Once the round has started there will be no strategizing **You are in combat**
 		- If someone is outright egregiously breaking this rule, on purpose, their turn will be forfeited
 	2. Players can describe their condition, but do not disclose HP
 	3. Standing up from prone provokes opportunity attacks from creatures that can reach
-6. **Resurrections**
-	- A resurrection attempted by spell or effect with longer than a 1 action casting time initiates a "resurrection challenge"
-		- Up to 3 members of the party can offer to contribute to the ritual via skill check
-			- DM asks each of them to make a skill check based on the form of their contribution
-			- DC adjusts based on how helpful/impactful DM feels the contribution would be
-	- Successful resurrections, should the soul be willing, will bring player character back to life
-	- Failed resurrections, character is lost forever
-7. **Sleep Deprivation:**
+6. **Sleep Deprivation:**
   - Failure to sleep on a proper surface results in a 10% Max HP penalty (rounded down).
   - Debuff removed by a Long Rest with appropriate accommodations.
-8. **Food Deprivation**:
+7. **Food Deprivation**:
   - Inadequate food leads to a stacking *hungry* debuff:
     - -1 to all *saving throws*.
   - After 3 days, *starving* debuff occurs, reducing Max HP by 20% daily until death.
     - Eating a full meal removes all hunger/starving debuffs.
     - Eating half a meal removes half of all hunger/starving debuffs.
     - Eating a snack prevents a stack for that day.
-9. **Speedy Turns = Free Short Rest**
+8. **Speedy Turns = Free Short Rest**
 	- Every time a player knows exactly what they want to do when their turn arrives the team will be able progress down a "***Speed Track***"
 		- *When the players complete the speed track they may take a free short rest at the end of battle (does not count towards their 2 short rest's per day.)*
 	- Speed Track Length = Total # of players multiplied by 2
-1. [[Rules on Spell Scrolls]]
+9.  [[Facing Rule]]
+10. [[Rules on Spell Scrolls]]
+11. **Dark Vision Rarity**
+	- Dark vision is rare and most races do not have it
+	- Your player character's can replace dark vision with an extra skill, language, or even tool proficiency
+
