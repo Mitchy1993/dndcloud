@@ -3,30 +3,31 @@
 - Mini Selection
 #### TaleSpire Basics
 - Exploration movement - Shift WASD
-	- In small area where space is limited this is cute way to move, but like on a board games many times you will pick up your mini to move it to another space or square
-	- Turn on movement measuring
+	- Maximizing enjoyment from TaleSpire takes discipline
+	- *Show Case exploration in Blingdenstone(Just entrance area)*
+		- Maintain Third Person view.
+			- Goal is not to see the world, it's to emulate the view you would have if you WERE your character
+		- Double Right click to focus
+		- Locking green slider in buildings
+		- Key binding for vertical panning
+		- Emoting through text
+		- The less you break immersion the more fun you can have fun
 - Camera movement
 	- Center camera is white dot 
 	- Click character tokens to zoom to character
 	- Green Cutbox to see in buildings and roofs
-- D&D is not a video game it is a theater of the mind, 
-		- Easily break the immersion. 
-		- Flying your mini around like crazy into areas your character should never ever be able to reach breaks immersion. 
-		- The less you break immersion the more fun you can have
 	- When flying your mini, holding ctrl allows you to lift it vertically instead of just horizontally
 	- Shift click for teleport (If it doesn't work might be DM only)
 	- Toggle on movement measuring
 	- If you ever get lost or need to be brought to the party, let me know I can teleport you all into a group at the same location if needed.
 - Combat 
 	- Attacking animations
-	- Loading Stats onto character. *(Speeds up combat)*
+	- **Important** - Use the HP button for current AC *(Speeds up combat)*
 #### Interacting w/ the world
-- Shift to read signs and surroundings
+- Tab to read signs and surroundings
 - Doors - Right click to request open
-- Lockpicking
-- Calculator man for quick math's
+- Lockpicking - Right click to request open
 - Whisper Channel
-- Combat and Player Death
 	- [[House Rules]]
 
 ```ad-hint

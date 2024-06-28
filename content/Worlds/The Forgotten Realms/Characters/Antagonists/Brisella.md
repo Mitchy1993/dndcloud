@@ -1,5 +1,4 @@
 ![[Brisella Throne.png]]
-![[Brisella.png]]
 Gnoll trainer who used [[Linsella]]'s notes to complete the dangerous work of Gnoll Mastery.
 - Dark skinned
 - Deliberate and condescending speech pattern

@@ -12,6 +12,6 @@ The city of [[Ormpetarr]] was at the northwestern border, split by the plaguel
 The Plaguewrought Lands were surreal yet **breathtakingly** grand. The ground heaved like ocean waves, forming [[earthmotes]]. Vegetation was twisted, growing and dying rapidly. Wild magic killed most who ventured in.
 
 **History:**
-The border remained stable post-Spellplague. Pilgrims, backed by the [[Order of Blue Flames]], sought [[spellscar]]s.
+The border remained stable post-Spellplague. Pilgrims, backed by the [[Order of Blue Flame]], sought [[spellscar]]s.
 
 After the [[Second Sundering]], the Lands vanished, but resurfaced by 1500 DR, nearly restored by 1502.

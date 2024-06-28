@@ -1,3 +1,4 @@
+
 **Purpose:**  
 To allow players to challenge a DM ruling once per session when they believe it significantly contradicts the established story or game continuity, ensuring the game remains enjoyable and consistent for everyone.
 

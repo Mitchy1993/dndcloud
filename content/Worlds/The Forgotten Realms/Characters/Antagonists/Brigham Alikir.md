@@ -1,109 +1,10 @@
 An enigmatic shadow druid, is a member of the secretive Purification Society, dedicated to eradicating what they see as impurities in nature. With a fanatical devotion to their cause, Brigham believes that only by purging the world of lesser races can nature truly thrive. Joining Timothy's rival party, Brigham sees an opportunity to further the goals of the Purification Society and cleanse the land of those he deems unworthy.
 ![[Brigham Alikir.jpg]]
 ![[Shadow Sapling.jpg]]
-# Statblock
-```statblock
-name: Brigham Alikir
-image: Brigham Alikir.jpg
-size: Medium
-type: humanoid
-subtype: Mark of Shadow Elf
-alignment: Chaotic Evil
-ac: 14
-hp: 42
-hit_dice: 7d10 + 4
-speed: 30 ft.
-stats:
-  - 11
-  - 14
-  - 14
-  - 12
-  - 16
-  - 11
-saves:
-  - wisdom: 6
-  - intelligence: 4
-skillsaves:
-  - Arcana: 4
-  - history: 4
-  - nature: 4 
-  - perception: 6
-  - intimidation: 3
-  - stealth: +d4
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
-senses: passive Perception 10
-languages: common, elvish
-cr: "2"
-bestiary: true
-traits:
-  - name: Shadow Shape 2/rest
-    desc: BA expend a shadow shape to become a shadow. Shadow Swipes impose DC 15 WIS throw, enemy loses 1 STR on failure. Heal for half damage dealt with melee
-  - name: War Caster 
-    desc: ADV on concentration saves; cast spell as opportunity attack
-  - name: Shadow Master 
-    desc: Can cast invisibility 1/day for free
-actions:
-  - name: Shadow Swipes
-    desc: "Melee Attack: +7 to hit, reach 5 ft., one target. Hit: 4 (2d6 + 2) necrotic damage."
-  - name: Quarterstaff
-    desc: "Melee Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6) bludgeoning damage."
-  - name: Shillelagh/1 min
-    desc: "BA to activate. Melee Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d8 + 3) bludgeoning "
-  - name: Defile Ground 1/rest
-    desc: "BA to activate. Patch of land or water in 10 ft radius within 60ft is corrupted for 1 min. Difficult terrain for enemies. Creature in area that takes damage for the first time, per turn, takes extra 1d4 necrotic. Can move as bonus action"
-spells:
-  - "The mage is a 6th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The caster has the following artifcier spells prepared:"
-  - Cantrips (at will): poison spray, shillelagh, minor illusion
-  - 1st level (4 slots): earth tremor
-  - 2nd level (3 slots): darkness, invisibility, locate object, shadow blade
-  - 3rd level (3 slots): bestow curse, conjure animals, fear, revivify, tidal wave, wall of water
-reactions:
-  - name: Call Shadowseeds (PROF/day)
-    desc: When a non-undead or construct takes damage in defiled ground, summon a Shadow Sapling that obeys your commands
-```
-
-```statblock
-name: Shadow Sapling
-image: Shadow Sapling.jpg
-size: tiny
-type: plant
-subtype: sapling
-alignment: Chaotic Evil
-ac: 10 + PB
-hp: 2*Druid Lvl
-hit_dice: 3d6 + 2
-speed: 30 ft.
-stats:
-  - 8
-  - 13
-  - 12
-  - 4
-  - 8
-  - 3
-saves:
-skillsaves:
-damage_vulnerabilities: "fire"
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
-senses: passive Perception 9, blindsight 60 ft.
-languages: common, elvish
-cr: ""
-bestiary: true
-traits:
-actions:
-  - name: Multiattack
-    desc: "2 attacks When you reach 14th lvl"
-  - name: Claws
-    desc: "Melee Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (2d4) + PB piercing damage."
-```
 # Circle of Shadow's Druid
 Circle of Shadows
 
-Those in this circle live where the canopy is thick. The crossroads where travlers lose their way in the forest and jungles. They see it as their sacred duty to be the necessary evil. Not a darkness born of necromancy or the nine hells but the cruel hand of nature herself.
+Those in this circle live where the canopy is thick. The crossroads where travelers lose their way in the forest and jungles. They see it as their sacred duty to be the necessary evil. Not a darkness born of necromancy or the nine hells but the cruel hand of nature herself.
 
 **2nd Level**
 
@@ -123,12 +24,12 @@ Shadow Form
 
 When you join this Circle at second level you learn the art of becoming a shadow. You may expend one use of your wild shape to become a _Shadow_ (MM.269) with the following changes.
 
-- the _Strength Drain_ Attack is replaced with the following attack. **Life Drain.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: (2d6 + 2) necrotic damage. On a hit your shadow form regains a number of hitpoints equal to half the damage dealt.
+- the _Strength Drain_ Attack is replaced with the following attack. **Life Drain.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: (2d6 + 2) necrotic damage. On a hit your shadow form regains a number of hit points equal to half the damage dealt.
     
 - it gains a number of additional hit die equal to half your Druid level rounded down.
     
 
-The same rules apply as your regular Beast shapes and once you’ve used this ability, you cannot do so again until you’ve finished a long or short rest. At 10th level you may use your wildshape to assume this form as often as you wish.
+The same rules apply as your regular Beast shapes and once you’ve used this ability, you cannot do so again until you’ve finished a long or short rest. At 10th level you may use your wild shape to assume this form as often as you wish.
 
 _before you panic, CR wise this is weaker than a moon druid, that said I know the potency of Shadows so until 10th level it’s limited to once per short rest, and from then till 20th it’s twice, in addition this form has a low AC and quite low health so I think it’s reasonable, though again criticisms are welcomed_
 

@@ -1,20 +1,24 @@
 1. **Feats**
-	1. You gain one feat upon campaign start, and one feat upon reaching levels 4 regardless of your class composition
-		1. Feats are accrued RAW after Level 4
-		2. Classing back into your original class will not allow you to "cheat" out an extra feat
-		3. You will still have to "pay" for your feat in some regard by taking 5 levels in your new class to obtain your next feat, or by putting a 4th point into your original class. The math all works out, we are essentially making multiclassing less punishing by loaning you a feat, for the Rule of Cool, which you will pay back later.
-			1. 3 Fighter + 1 Paladin = *Starting feat + Level 4 feat*
-			2. 3 Fighter + 1 Paladin + 1 Fighter = *Starting feat + Level 4 feat*
-			3. 3 Fighter + 5 Paladin = Starting feat + Level 4 feat + **Feat**
-			4. 4 Fighter + 4 Paladin = Starting feat + Level 4 feat + **Feat**
-2. **_Dramatic Player Death_**
+	1. If your background does not provide a "Feat" you may add a "Feat," so long as you describe narratively why your character has that "Feat."
+	2. "Feats" are no longer tied to classes. You gain "Feats" at Levels 4/8/12/16/19, regardless of their Multi-class composition.
+		- Fighter's will still gain their bonus "Feats" at *6th* & *14th* **Fighter** levels.
+	***Varient Human Nerf***
+	- Varient Human's may not take the following combat Feat's as their *Racial Feat*
+		- Crossbow Expert
+		- Elven Accuracy
+		- Great Weapon Master
+		- Lucky
+		- Mobile
+		- Polearm Master
+		- Resilient
+		- Sentinel
+		- Sharpshooter
+		- War Caster
+		- etc.
+1. **_Dramatic Player Death_**
     1. While making death saving throws, players can still participate on their turn in the following ways:
-        
-        1. Can take an action but gain _one level of exhaustion_
-            
-            1. (object interactions, bonus actions, and voluntary ability checks all count as actions in this context.)
-            
-        
+        1. Can take an action, but gain _one level of exhaustion_
+            - Object interactions, Bonus actions, and Involuntary ability checks all count as actions in this context.)
     - Dropping to 0 hit points _automatically_ accrues *one level of exhaustion
     - Talking is free but, short sentences, you are actively bleeding out.
         - The DM will cut you off, ending your turn, if you are abusing this rule.
@@ -43,7 +47,7 @@
 	    - Eating a full meal removes all hunger/starving debuffs.
 	    - Eating half a meal removes half of all hunger/starving debuffs.
 	    - Eating a snack prevents a stack for that day.
-8. **Speedy Turns = Free Short Rest**
+8. **Speedy Turns = Free Short Rest** *(Assign a player to keep track)*
 	- Every time a player knows exactly what they want to do when their turn arrives the team will be able progress down a "***Speed Track***"
 		- *When the players complete the speed track they may take a free short rest at the end of battle (does not count towards their 2 short rest's per day.)*
 	- Speed Track Length = Total # of players multiplied by 2
@@ -56,3 +60,4 @@
 	- Once per combat you may deny your turn priority and insert yourself farther down in the round where desired
 	- You may never increase your priority, only decrease it.
 13. **[[Player Veto]]**
+14. Upon death players may allow their character to die or come back as a revenant with a goal, approved by the DM, and upon completion the character is impossible to revive.  

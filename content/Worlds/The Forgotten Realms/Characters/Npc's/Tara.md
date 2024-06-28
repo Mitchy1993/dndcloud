@@ -1,4 +1,4 @@
-![[Tara.png]]
+![[Tara.png|400]]
 - [[Tressym]] conjured by [[Gale Dekarios]] as a child.
 - Gale left her under the supervision of [[Halaster Blackcloak]]
 - Misses tea talk with the late [[Morena Dekarios]] 

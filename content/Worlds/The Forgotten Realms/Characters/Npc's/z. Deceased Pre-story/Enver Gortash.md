@@ -1,3 +1,5 @@
+[Wiki](https://bg3.wiki/wiki/Enver_Gortash)
+
 Previously a counsler in [[Baldur's Gate]] and chosen of [[bane]] who stole the Crown of Karsus from [[Mephistopheles]].
 
 Gortash used the Crown as the dominiate the Sword Coast through a brilliant proxy mind control scheme.

@@ -8,14 +8,14 @@ Arandur and Vera knew Mystra's full history and knew that this was the 3rd time 
 
 1. Mystral and Netheril
 2. Time of Troubles, Mystra's arrogance led to death by Helm
-3. Assinated by Cyric
+3. Assassinated by Cyric
 
 When Mystra returned, as she always does, Arandur and Vera were far from her loyal followers. Their only prayers now were to anyone or anything that could replace the careless Goddess to whom they sacrificed so much, only to have the world brought to ruin.
 
-Arandur blames Mystra for everything, and wants to kill her one last time and replace her. Vera on the other hand does not want to put the world through another spell tragedy and wants to find a peaceful way, however she went along with Arandur's scheming until they were seperated during the [[Spell Siege of Waterdeep]].
+Arandur blames Mystra for everything, and wants to kill her one last time and replace her. Vera on the other hand does not want to put the world through another spell tragedy and wants to find a peaceful way, however she went along with Arandur's scheming until they were separated during the [[Spell Siege of Waterdeep]].
 
-Vera was found by Waterdavhians at the end of the siege and submitted to the arcane library at Blackstaff Tower where she remains dormant to this day.
+Vera was found by Waterdavians at the end of the siege and submitted to the arcane library at Blackstaff Tower where she remains dormant to this day.
 
-Arandur prefer's to live in areas of dead magic away from Mystra's eyes which he most often finds in the [[Plaguewrought Land]].
+Arandur prefers to live in areas of dead magic away from Mystra's eyes which he most often finds in the [[Plaguewrought Land]].
 
 [[Karthus]], the relatively new God, heard Arandur's prayer and took him as his most loyal servant.

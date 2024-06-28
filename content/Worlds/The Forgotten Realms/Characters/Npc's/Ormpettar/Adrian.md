@@ -1,4 +1,4 @@
-Accordant of the reborn [[Order of Blue Flames]] located in [[Ormpetarr]] after the [[Plaguewrought Land]] resurfaced.
+Accordant of the reborn [[Order of Blue Flame]] located in [[Ormpetarr]] after the [[Plaguewrought Land]] resurfaced.
 
 [[Ormpetarr]] was a mostly lawless land full of criminals and vagabonds, especially after losing all of the tourism from [[Scar Pilgrimages]]. When the plague returned it was incredibly easy for the Order to reestablish itself in hopes of revitilizing the lucrative attraction.
 
