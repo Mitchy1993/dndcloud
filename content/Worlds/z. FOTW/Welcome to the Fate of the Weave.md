@@ -22,14 +22,14 @@
 ***Alert DM in advance if player death is not consented to***. 
 - Enemies will be logical, and sometimes ruthless 
 - Making a backup character in advance can help ease anxiety about death
-- ***I'm not a monster, play smart & you'll be fine... ***
-	- <small>D&D is like a movie that you get to star in, so if you are the person in the horror movie that everyone is saying "You idiot don't go in there!!" then yea... your're probably gonna die<big>
+- ***I'm not a monster, you'll be fine... ***
+	- <small>D&D If you are the person in the horror movie that everyone is saying "You idiot don't go in there!!" then yea... your're probably gonna die<big>
 
 **Campaign Setting:**
   
 - **Theme:** Explores power, corruption, and consequences of meddling with mystical forces.
   
-- **Starting Location:** Waterdeep.
+- **Starting Location:** Fluctuates
   
 - **World Lore:** *Forgotten Realms* + *events of Baldur's Gate 3 are canon*
   
