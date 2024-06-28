@@ -3,16 +3,16 @@ The **Calendar of Harptos** was the calendar used across most of [Faerûn](ht
 ### Lunar Calandar
 https://forgottenrealms.fandom.com/wiki/1502_DR - Year of the Pox Plague
 ### Days of the Week
-1. Dawncrest
-2. Solrise
-3. Solpeak
-4. Solfall
-5. Duskbright
-6. Moonglow
-7. Lunrise
-8. Lunpeak
-9. Lunfall
-10. Eventide
+1. *Dawncrest*
+2. *Solrise*
+3. *Solpeak*
+4. *Solfall*
+5. *Duskbright*
+6. *Moonglow*
+7. *Lunrise*
+8. *Lunpeak*
+9. *Lunfall*
+10. *Eventide*
 
 ### Months of the year
 1. [[Hammer]] (Deepwinter): Cold and often snowy in most regions, especially in the northern areas.

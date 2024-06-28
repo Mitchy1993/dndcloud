@@ -35,6 +35,7 @@ imports:
 ### Waterdeep
 
 **Part of the [[Lord's Alliance]]**
+**Social Hubs:** [[Yawning Portal]], [[Evernight]], [[Waterdeep Entertainment Schedule]]
 
 #### Notable Buildings and Persons:
 
@@ -49,7 +50,6 @@ imports:
 - **Altars:** [[Mystra]], [[Tyr]], and [[Shrine of the Rat]]
 - **Resources:** Imports magical ingredients, exports magical items  
 - **Defenses:** Strong city walls, [[City Watch]], [[Lord's Alliance]]  
-- **Social Hubs:** [[Yawning Portal]], [[Trade Before Raid]]
 - **Location:** Sword Coast (North)
 
 ### History:

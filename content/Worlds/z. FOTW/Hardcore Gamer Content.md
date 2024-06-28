@@ -1,6 +1,6 @@
-**Talespire Mod list Code**: 018e4e09-5b71-350a-8504-c391e5a7645d
-
 [[Welcome to the Fate of the Weave]]
+![[EverNight's Dragon Arena.png||500]]
+*Fun Fact: Show's put on by [[projectors]] at EverNight are 52% off on [[a. Calendar of Harptos#Days of the Week|Solpeak]]*
 # Fate of the Weave
 
 1. **Campaign Setting**
