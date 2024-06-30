@@ -1,10 +1,10 @@
 Creating a Chosen requires a God/Godess to sacrifice a massive amount of their total power profile.
 - A portion of the power is vested into the Chosen, and the rest goes into holding by [[AO]]  
 - In return they gain a massive amount of agency due to having a powerful mortal who can operate in all of the places Deities are no longer allowed to go.
-- Mystra is so incredibly powerful, due to the nature of her domain, that she is able to field several times more Chosen than any other Deity, and still manifest the power of a Greater Deity.
+- Mystra has a massive profile of power, *due to the nature of her domain,* and is able to field several times more Chosen than any other Deity.
   
 **Death of a Chosen**
-  - When a Chosen dies, they become a [[Weaveghost]].
+  - When a Chosen of Mystra dies, they become a [[Weaveghost]].
   - They serve Mystra in her domain
 
 **Chosen's Nature:**

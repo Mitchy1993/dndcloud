@@ -49,7 +49,9 @@
 	    - Eating a snack prevents a stack for that day.
 8. **Speedy Turns = Free Short Rest** *(Assign a player to keep track)*
 	- Every time a player knows exactly what they want to do when their turn arrives the team will be able progress down a "***Speed Track***"
-		- *When the players complete the speed track they may take a free short rest at the end of battle (does not count towards their 2 short rest's per day.)*
+		- *When the players complete the speed track they may take an instant short rest at the end of battle*
+		- *Player's may feel that their turn was speedy, but ultimately because the player's understandably have bias, the DM must be the final say on whether the turn was decisive and earned progress on the speed track.*
+			- *Slowing down the game with arguing about the speed track obviously moves the party backwards on the speed track.*
 	- Speed Track Length = Total # of players multiplied by 2
 9.  [[Facing Rule]]
 10. [[Rules on Spell Scrolls]]
@@ -59,5 +61,4 @@
 12. **Initiative Down the River**
 	- Once per combat you may deny your turn priority and insert yourself farther down in the round where desired
 	- You may never increase your priority, only decrease it.
-13. **[[Player Veto]]**
-14. Upon death players may allow their character to die or come back as a revenant with a goal, approved by the DM, and upon completion the character is impossible to revive.  
+13. Upon death players may allow their character to die or come back as a revenant with a goal, approved by the DM, and upon completion the character is impossible to revive.  

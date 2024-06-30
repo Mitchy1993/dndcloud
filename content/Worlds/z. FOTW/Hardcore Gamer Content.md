@@ -9,13 +9,13 @@
 3. **Theme**
 	- *This campaign explores power, corruption, and the consequences of tampering with forces beyond mortal comprehension*
 4. **Starting Location**
-	- [[Waterdeep]]
+	- Flexible
 5. **World Lore & History**
 	- Standard Forgotten Realms Lore + Baldur's Gate 3 
 6. **Map** 
 	- [Map of Faerun](https://www.worldanvil.com/w/the-forgotten-realms-threedmensional/map/5b827051-c949-4d9c-8204-76bc85861fab)
 7. **Current Events**
-	- 10 years post Baldur's Gate 3 (1502 DR)
+	- 10 years Post-Baldur's Gate 3 (1502 DR)
 	- Magic is increasingly unstable, remnants of the [[Spellplague]] have returned
 		- One area of concern called the [[Plaguewrought Land]] has reappeared. 
 		- For decades persons regularly entered this land on [[Scar Pilgrimages]] to become [[Spellscarred]], only 1 out of 10 succeeded.

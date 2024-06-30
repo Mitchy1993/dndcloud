@@ -34,7 +34,7 @@ The player with the highest roll discusses with the group who they think should 
 The player with the highest roll makes the final decision. To encourage choosing a new DM, offer an incentive:
 - **In-game Reward**: 
 	- **Chooser:** Inspiration
-	- **New DM:** [[Item of Narrative Flux]]
+	- **New DM:** [[Trophy of Narrative Flux]]
 
 ## Running the "Monster’s & Mayhem" Session
 

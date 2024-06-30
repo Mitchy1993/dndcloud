@@ -9,3 +9,6 @@ Admirius Ackbar left the [[Elemental Planes]](Water) in a attempt to "seek his d
 By complete chance Ackbar saved [[Lord Peneshay]] from drowning during a conflict off the dock of [[Waterdeep]]. They became close friends, and ultimately, Peneshay made Ackbar his right hand man and successor to the Order. 
 
 <small> This fish man just wants to be appreciated and accepted <big>
+
+## Ackbar's Personal Detachment
+![[Order of Tye.jpg]]

@@ -12,12 +12,11 @@
 
 *What happens will be ultimately be decided by you in "Fate of the Weave!"*
 
-**Player Requirements:**
+### **Player Requirements:**
 [[Character Background Tutorial]]
 - ***Name***
 - ***Age***
 - ***Backstory***
-- ***1 Uncommon Magical Item***
 
 ***Alert DM in advance if player death is not consented to***. 
 - Enemies will be logical, and sometimes ruthless 

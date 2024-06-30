@@ -1,5 +1,7 @@
 ![[Valthran Draxos (Light).png]]
+***High Rider* of Elturel**
 - **Current Goals**:
+  - Rule's [[Elturel]] as an efficient, secure, and well-policed city, w/ interests in farming and trade.
   - Assist adventurers in safe travels across different realms.
 
 - **Background**:

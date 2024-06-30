@@ -1,3 +1,5 @@
+- [[House Rules]]
+- Play [[Baldur's Bones]]
 #### Character Basics
 - Roll Stats
 - Mini Selection
