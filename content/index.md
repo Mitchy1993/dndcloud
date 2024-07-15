@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Forgotten Realms!!
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[Toril.png]]
+# Getting Started
+- [[Welcome to the Fate of the Weave]]
+- [[Character Background Tutorial]]
+- [[House Rules]]
+- [[Post Session Questionnaire]]
