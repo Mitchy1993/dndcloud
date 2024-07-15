@@ -1,1 +1,0 @@
-Vigilante of [[Swindon]], fairly incompetent but for whatever reason is/was associated with the famous [[Twelve]]

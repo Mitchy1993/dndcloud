@@ -1,1 +1,0 @@
-Hometown of [[Fredegor]]. 

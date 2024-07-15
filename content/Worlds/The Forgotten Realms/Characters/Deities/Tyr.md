@@ -1,1 +1,0 @@
-God of Justice and Law
