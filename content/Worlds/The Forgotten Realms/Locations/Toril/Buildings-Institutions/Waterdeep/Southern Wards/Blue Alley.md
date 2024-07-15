@@ -1,0 +1,1 @@
+https://www.worldanvil.com/w/faerun-tatortotzke/a/blue-alley-landmark![[177004-Blue_Alley.pdf]]
