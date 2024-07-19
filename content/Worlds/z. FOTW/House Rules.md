@@ -63,3 +63,10 @@
 	- Once per combat you may deny your turn priority and insert yourself farther down in the round where desired
 	- You may never increase your priority, only decrease it.
 13. Upon death players may allow their character to die or come back as a revenant with a goal, approved by the DM, and upon completion the character is impossible to revive.  
+14. **[[conditions|Condition]] changes**
+	- [[conditions#Stunned|Stunned]] creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of the stun.
+		- Incapacitation effect removed
+		- Other RAW stun effects remain
+	- [[conditions#Paralyzed|Paralyzed]] creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of paralysis
+		- Incapacitation effect removed 
+		- Other RAW paralysis effects remain
