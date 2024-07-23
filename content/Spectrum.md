@@ -1,0 +1,1 @@
+![[Spectrum (Light).jpg]]
