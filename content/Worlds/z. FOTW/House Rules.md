@@ -70,3 +70,6 @@
 	- [[conditions#Paralyzed|Paralyzed]] creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of paralysis
 		- Incapacitation effect removed 
 		- Other RAW paralysis effects remain
+15. Flanking 
+	- +2 to melee ATK roll for every ally within 5ft of an enemy when attacking that enemy.
+16. [[Suffocating]]

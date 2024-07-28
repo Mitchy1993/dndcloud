@@ -1,0 +1,1 @@
+[[Player View. Whiskey Details]]

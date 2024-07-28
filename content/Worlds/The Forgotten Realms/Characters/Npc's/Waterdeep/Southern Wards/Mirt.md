@@ -3,6 +3,8 @@
 - [Durnan](https://forgottenrealms.fandom.com/wiki/Durnan "Durnan") the Wanderer, a good friend;
 - [Ieiridauna Amalree](https://forgottenrealms.fandom.com/wiki/Ieiridauna_Amalree "Ieiridauna Amalree"), the [Watchghost](https://forgottenrealms.fandom.com/wiki/Watchghost "Watchghost") of Mirt's Mansion in Waterdeep;
 
+### Statblock
+https://www.worldanvil.com/block/981943
 
 
 ### History

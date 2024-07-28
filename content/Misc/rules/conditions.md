@@ -89,7 +89,7 @@ _Source: SRD / Basic Rules_
 ## Paralyzed
 _Source: SRD / Basic Rules_
 
-- A paralyzed creature is [incapacitated](conditions.md#incapacitated) and can't move or speak.  
+- Paralyzed creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of paralysis.
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.  
@@ -126,7 +126,7 @@ _Source: SRD / Basic Rules_
 ## Stunned
 _Source: SRD / Basic Rules_
 
-- A stunned creature is [incapacitated](conditions.md#incapacitated), can't move, and can speak only falteringly.  
+- Stunned creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of the stun.
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 
