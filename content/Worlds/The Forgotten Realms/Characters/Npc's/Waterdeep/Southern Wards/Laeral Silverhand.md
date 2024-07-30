@@ -1,3 +1,4 @@
+[[Chosen of Mystra]]
 #### Background:
 
 - Laeral Silverhand is a powerful and renowned wizard who has played significant roles in the history of the Forgotten Realms.

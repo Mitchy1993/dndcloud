@@ -73,3 +73,8 @@
 15. Flanking 
 	- +2 to melee ATK roll for every ally within 5ft of an enemy when attacking that enemy.
 16. [[Suffocating]]
+17. PvP is allowed
+18. Ability Check Changes 
+	- Nature uses INT or WIS
+	- Religion uses INT or WIS 
+	- Survival uses INT or WIS 

@@ -1,4 +1,4 @@
-
+[[Chosen of Mystra]]
 - **Wise:** Elminster is one of the most knowledgeable and wise individuals in Faerûn. With centuries of experience and study, he possesses a wealth of knowledge about magic, history, and the workings of the world.
 - **Mysterious:** Despite his wisdom, Elminster often cloaks himself in mystery, revealing only what he deems necessary. He has a tendency to speak in riddles and obscure references, keeping others guessing about his true intentions and motivations.
 - **Mischievous:** Elminster has a mischievous streak, enjoying playful pranks and tricks, especially when it comes to those who take themselves too seriously. He has a wry sense of humor and enjoys teasing others.

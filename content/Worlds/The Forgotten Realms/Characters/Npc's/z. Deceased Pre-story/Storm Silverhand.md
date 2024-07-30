@@ -1,4 +1,5 @@
-
+[[Chosen of Mystra]]
+*(Killed [[Marpenoth]] 19th, 1502 DR)*
 - **Courageous:** Storm is known for her bravery and willingness to confront danger head-on. She is unafraid to face formidable foes in defense of the realms.
 - **Adventurous:** With a restless spirit, Storm often seeks out new challenges and experiences. She is drawn to adventure and exploration, constantly roaming the Realms in search of excitement.
 - **Fierce:** As a skilled warrior and cleric, Storm possesses a fierce determination in battle. She fights with passion and conviction, inspiring those around her with her strength and tenacity.

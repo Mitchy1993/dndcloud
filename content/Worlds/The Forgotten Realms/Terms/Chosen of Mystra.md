@@ -1,4 +1,4 @@
-Creating a Chosen requires a God/Godess to sacrifice a massive amount of their total power profile.
+Creating a Chosen requires a God/Godess to sacrifice a massive amount of their total power profile, similar to creating an [[Avatar]]
 - A portion of the power is vested into the Chosen, and the rest goes into holding by [[AO]]  
 - In return they gain a massive amount of agency due to having a powerful mortal who can operate in all of the places Deities are no longer allowed to go.
 - Mystra has a massive profile of power, *due to the nature of her domain,* and is able to field several times more Chosen than any other Deity.
@@ -17,7 +17,7 @@ Creating a Chosen requires a God/Godess to sacrifice a massive amount of their t
 ### Chosen Remaining in 1502
 - [[Elminster Aumar]]
 - [[Laeral Silverhand]]
-- [[Storm Silverhand]]
+- [[Storm Silverhand]] *(Killed [[Marpenoth]] 19th, 1502 DR*
 
 ### Historical Chosen
 Alustriel Silverhand
