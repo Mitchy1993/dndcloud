@@ -1,0 +1,1 @@
+A powerful fiend defeated by [[Lycan]] to impress [[Luna]]

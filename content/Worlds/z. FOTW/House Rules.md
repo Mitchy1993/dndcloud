@@ -70,11 +70,15 @@
 	- [[conditions#Paralyzed|Paralyzed]] creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of paralysis
 		- Incapacitation effect removed 
 		- Other RAW paralysis effects remain
-15. Flanking 
+	- [[conditions#Surprised|Surprised]]
+		- Surprised creatures roll initiative at disadvantatge. 
+		- Surprised creatures can not use reactions until their first turn of combat.
+
+1. Flanking 
 	- +2 to melee ATK roll for every ally within 5ft of an enemy when attacking that enemy.
-16. [[Suffocating]]
-17. PvP is allowed
-18. Ability Check Changes 
+2. [[Suffocating]]
+3. PvP is allowed
+4. Ability Check Changes 
 	- Nature uses INT or WIS
 	- Religion uses INT or WIS 
 	- Survival uses INT or WIS 

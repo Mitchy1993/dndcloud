@@ -1,14 +1,10 @@
-
-**Overview:**
-- Resilient city overcoming challenges like the Cataclysm of Neverwinter.
-- Offers trade opportunities and diverse communities.
-
+https://forgottenrealms.fandom.com/wiki/Neverwinter
 **Key Features:**
 1. **Chasm:** Massive chasm resulting from the Cataclysm of Neverwinter.
 2. **Reconstruction:** Ongoing efforts to rebuild after destruction.
 3. **Trade Hub:** Attracts merchants, adventurers, and travelers.
 4. **Cultural Diversity:** Home to diverse population including humans, dwarves, elves, etc.
-5. **Strategic Importance:** Holds strategic importance in regional politics and trade routes.
+
 
 **Key Locations:**
 1. **Protector's Enclave:** Central district housing government buildings and markets.
@@ -23,6 +19,3 @@
 **Key Figures:**
 1. **Lord Neverember:** Played crucial role in reconstruction.
 2. **Makos:** Notable tiefling warlock associated with Neverwinter.
-
-**Associated Modules:**
-- Featured in Dungeons & Dragons modules like "Neverwinter Campaign Setting" and "Neverwinter: Dragonborn."

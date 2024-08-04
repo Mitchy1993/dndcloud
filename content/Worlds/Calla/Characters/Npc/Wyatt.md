@@ -22,9 +22,9 @@ Wyatt's story began on a cold, rainy night. The howling wind and relentless rain
 
 ### Adoption by the Leto Family
 
-At age five, Wyatt's life took a dramatic turn. He was adopted by the Leto family, a decision that initially seemed like a blessing. Marik and Lilia Leto had recently moved into town. Marik, busy with city council work, left Lilia alone and yearning for company. The adoption seemed to solve her loneliness.
+At age five, Wyatt's life took a dramatic turn. He was adopted by the Leto family, a decision that initially seemed like a blessing. [[Mikkel Leto]] and [[Lilia Leto]] Leto had recently moved into town. [[Mikkel Leto]], busy with city council work, left [[Lilia Leto]] alone and yearning for company. The adoption seemed to solve her loneliness.
 
-But the motivations behind the adoption were murky. Was it a whim to satisfy Lilia’s need for companionship? Or a poorly judged decision, overlooking Lilia’s capabilities as a mother? The answers remain shrouded in mystery. What is certain is that one morning, a few months later, Wyatt was returned to the orphanage, the very place he'd been abandoned as an infant. He was left with only the clothes on his back and a medallion bearing the symbol of the God Lykan.
+But the motivations behind the adoption were murky. Was it a whim to satisfy [[Lilia Leto]]’s need for companionship? Or a poorly judged decision, overlooking [[Lilia Leto]]’s capabilities as a mother? The answers remain shrouded in mystery. What is certain is that one morning, a few months later, Wyatt was returned to the orphanage, the very place he'd been abandoned as an infant. He was left with only the clothes on his back and a medallion bearing the symbol of the God Lykan.
 
 The Letos vanished from the city, leaving no trace behind. The medallion's dark, swirling symbol seemed to whisper secrets that no one could decipher.
 
