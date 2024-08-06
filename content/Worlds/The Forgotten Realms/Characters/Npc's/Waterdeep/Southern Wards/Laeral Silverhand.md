@@ -1,6 +1,6 @@
 [[Chosen of Mystra]]
 #### Background:
-
+[[Open Lord]] of [[Waterdeep]] since 1489 DR
 - Laeral Silverhand is a powerful and renowned wizard who has played significant roles in the history of the Forgotten Realms.
 - Known for her wisdom, magical prowess, and leadership skills, she has been a prominent figure in Waterdeep and beyond.
 
@@ -32,8 +32,4 @@
 
 - Laeral Silverhand is described as an elegant and regal woman, often adorned in robes befitting her status as a powerful wizard and political leader.
 
-#### Campaign Integration:
 
-- Including Laeral Silverhand in a campaign can provide players with opportunities to interact with a key figure in the political and magical landscape of the Forgotten Realms.
-- Her involvement may lead to quests, alliances, or challenges related to the governance of Waterdeep and the broader realms.
----

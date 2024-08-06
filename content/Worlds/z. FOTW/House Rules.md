@@ -71,7 +71,7 @@
 		- Incapacitation effect removed 
 		- Other RAW paralysis effects remain
 	- [[conditions#Surprised|Surprised]]
-		- Surprised creatures roll initiative at disadvantatge. 
+		- Surprised creatures roll initiative at disadvantage. 
 		- Surprised creatures can not use reactions until their first turn of combat.
 
 1. Flanking 

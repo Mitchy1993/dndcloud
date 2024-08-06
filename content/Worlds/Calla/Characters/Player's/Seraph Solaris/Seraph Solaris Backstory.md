@@ -8,7 +8,7 @@
 - **Ideals:** Seraph is passionate about bringing Lumen's light to all corners of the world.
 - **Hobbies:** 
     - Carving random runes into candle wax before melting it down to study the effects
-    - Using sand, wood, and smelted ore to craft Sun Star Shurikens.
+    - Using sand, wood, and smelted ore to craft Sun Star Shuriken's.
 - **Flaws:** ***The strain of Lawful-Goodness*** 
     - Seraph strives to be a paragon of patience and light, but we all miss the mark
         - Seraph lacks balance and when he falls short, he fails by a wide margin...

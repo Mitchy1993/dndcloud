@@ -1,33 +1,24 @@
 ## Oath of the Radiant Flame:
-*“In the heart of darkness, where shadows creep,*
-*I call upon light’s radiant sweep.*
+*“In the heart of darkness, where shadow creeps,*
+*A fighting glow makes radiant sweeps.*
 *By Lumen’s will, through fire and might,*
-*I stand as a beacon against the night.*
+*I stand as a beacon against the night*
 ## The Radiant Code of Lumen
 1. **Law of the Dawn (In Acts of Renewal and Healing)**
-   - ***Tagline**: “I raise you as Lumen raises the sun.”*
-   - ***Elvish (Quenya)**: “Auta lyë ve Lumen auta Anar.”*
-     - **Phonetic**: **Ow-tah lee-eh veh Loo-men ow-tah Ah-nar**
+   - ***Tagline***: “I raise you as Lumen raises the sun.”*
 
 2. **Law of the Unyielding Light (In Defiance of Darkness)**
    - **Tagline**: “I am what the dark fears.”
-   - **Elvish (Quenya)**: “Nanyë i umëa nauta.”
-     - **Phonetic**: **Nah-ny-eh ee oo-meh-ah now-tah**
 
 3. **Law of Illumination (In Pursuit of Truth)**
    - **Tagline**: “I will not stand for this opacity!”
-   - **Elvish (Quenya)**: “Ávalinë sa mornië!”
-     - **Phonetic**: **Ah-vah-lee-neh sah mor-nee-eh**
 
 4. **Law of Flame (In Acts of Heroism)**
    - **Tagline**: “As the heat of fire rises, so shall we to this challenge!”
-   - **Elvish (Quenya)**: “Ve laurië roita, tuluvammë lin mára!”
-     - **Phonetic**: **Veh low-ree-eh roy-tah, too-loo-vahm-meh leen mah-rah**
 
 5. **Law of the Chariot (In Times of Conflict)**
    - **Tagline**: “Lumen’s chariot drags the sun and the moon... my chariot just drags you!”
-   - **Elvish (Quenya)**: “Arda Lumen mahtar Anar ar Isil... nírnya han mahtar lyë!”
-     - **Phonetic**: **Ar-dah Loo-men mah-tar Ah-nar ar Ee-seel... neer-nya hahn mah-tar lee-eh**
+
 # Law Explanations
 1. **Law of the Dawn (In Acts of Renewal and Healing)**
  - *Be a beacon of renewal and hope. Heal the wounded, mend the broken, and uplift the downtrodden. Just as Lumen raises the sun each day, so too must you bring light to dispel despair.*

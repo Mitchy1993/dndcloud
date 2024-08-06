@@ -2,7 +2,7 @@
 
 🌟 Unveil the Fate of the Weave! 🌟
 
-*Calling all adventurers! Journey into The Forgotten Realms where the destiny of the Weave hangs in the balance.* 
+*Journey into The Forgotten Realms where the destiny of the Weave hangs in the balance.* 
 
 *You will encounter strange arcane forces, decipher ancient prophecies and face dark temptations.* 
 
@@ -20,9 +20,8 @@
 
 ***Alert DM in advance if player death is not consented to***. 
 - Enemies will be logical, and sometimes ruthless 
-- Making a backup character in advance can help ease anxiety about death
-- ***I'm not a monster, you'll be fine... ***
-	- <small>D&D If you are the person in the horror movie that everyone is saying "You idiot don't go in there!!" then yea... your're probably gonna die<big>
+- Making a backup character can help ease anxiety about death
+	- <small> If you die I'm sorry in advance...<big>
 
 **Campaign Setting:**
   
@@ -30,19 +29,17 @@
   
 - **Starting Location:** Fluctuates
   
-- **World Lore:** *Forgotten Realms* + *events of Baldur's Gate 3 are canon*
-  
+**World Lore:** *Forgotten Realms* + *events of Baldur's Gate 3 are canon*
+<small> Most people have heard of the [[Plot of the Absolute]], however the whereabouts of the heroes of Baldur's Gate remain largely a mystery <big>
+
 - **Current Events:** 
 	- 10 years after Baldur's Gate 3
 	- Magic increasingly unstable in the world
-		- [[Plaguewrought Land]]/[[Scar Pilgrimages]]/[[Spellscarred]]/[[Plaguechanged]]
+		- [[Scar Pilgrimages]]/[[Spellscarred]]/[[Plaguewrought Land]]/[[Plaguechanged]]
 
 **Game Mechanics:**
 
 - Allowed content: All + homebrew upon DM approval.
-
-- Starting ***Level: 3, milestone leveling*.**
-
+- Leveling: Milestone leveling
 - Backstory: Think as outside the box as you want & we'll find a way to make it work
-
 - Helpful Research: [[Mystra]], [[Weave]], [[Waterdeep]], [[Spellplague]], [[spellscar]].

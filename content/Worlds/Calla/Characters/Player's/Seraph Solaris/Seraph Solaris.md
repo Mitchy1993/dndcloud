@@ -1,5 +1,5 @@
 ![[Seraph Solaris.jpeg]]
-![[Seraph Pissed.png]]
+![[Seraph Enraged.png]]
 ![[Seraph (RAtC).png]]
 ![[Sun Stars.png]]
 ![[Seraph Solaris-Faltered.gif]]
