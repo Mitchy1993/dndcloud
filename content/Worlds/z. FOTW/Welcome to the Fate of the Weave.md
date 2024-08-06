@@ -13,33 +13,28 @@
 *What happens will be ultimately be decided by you in "Fate of the Weave!"*
 
 ### **Player Requirements:**
-[[Character Background Tutorial]]
+**Backstory Basics**
 - ***Name***
 - ***Age***
-- ***Backstory***
+- ***Current Goal in the World***
+[[Character Background Tutorial]] <-- <small> Extra backstory help <big>
+---
 
 ***Alert DM in advance if player death is not consented to***. 
 - Enemies will be logical, and sometimes ruthless 
 - Making a backup character can help ease anxiety about death
 	- <small> If you die I'm sorry in advance...<big>
-
-**Campaign Setting:**
   
-- **Theme:** Explores power, corruption, and consequences of meddling with mystical forces.
-  
-- **Starting Location:** Fluctuates
-  
-**World Lore:** *Forgotten Realms* + *events of Baldur's Gate 3 are canon*
+**World Lore:** ***Forgotten Realms*** + ***Baldur's Gate 3*** is canon
 <small> Most people have heard of the [[Plot of the Absolute]], however the whereabouts of the heroes of Baldur's Gate remain largely a mystery <big>
 
 - **Current Events:** 
 	- 10 years after Baldur's Gate 3
 	- Magic increasingly unstable in the world
-		- [[Scar Pilgrimages]]/[[Spellscarred]]/[[Plaguewrought Land]]/[[Plaguechanged]]
 
 **Game Mechanics:**
 
 - Allowed content: All + homebrew upon DM approval.
 - Leveling: Milestone leveling
-- Backstory: Think as outside the box as you want & we'll find a way to make it work
-- Helpful Research: [[Mystra]], [[Weave]], [[Waterdeep]], [[Spellplague]], [[spellscar]].
+- Backstory: Think as outside the box as you want; we'll find a way to make it work
+	- Helpful Research: [[Mystra]], [[Weave]], [[Waterdeep]], [[Spellplague]], [[Spellscarred]].

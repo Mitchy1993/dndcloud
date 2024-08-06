@@ -1,6 +1,5 @@
-[[Welcome to the Fate of the Weave]]
-![[EverNight's Dragon Arena.png||500]]
-*[[Fun Fact]]: Show's put on by [[projectors]] at EverNight are 52% off on [[a. Calendar of Harptos#Days of the Week|Solpeak]]*
+![[EverNight's Dragon Arena.png]]
+*[[Fun Fact]]: Show's put on by [[projectors]] at [[Evernight]] are 52% off on [[a. Calendar of Harptos#Days of the Week|Solpeak]]*
 # Fate of the Weave
 
 1. **Campaign Setting**
@@ -25,30 +24,20 @@
 	- Homebrew content is all ***allowed***, ***following review and approval.*** 
 		- Contact the DM with an idea as soon as possible, ***before*** you plan your entire character around homebrewed items/abilities/etc.
 2. **Starting Level & Leveling**
-	- Characters start @ level 3 
+	- Starting Level Varies
 	- Milestone leveling is used
 3. **Backstory** 
 	- You may come up with a story about your hometown, the customs of that area, your family history, or other world details. The DM will adapt the world to fit <small>(After confirming that it's not completely game-shattering)<big>
 4. **Canon material that will be most relevant** 
 	- [[Mystra]], [[Weave]], [[Waterdeep]], [[Neverwinter]], [[Spellscarred]], [[Scar Pilgrimages]], [[Plaguechanged]]
-5.  **Backstory Suggestions**
-	1. Member of the [[Guardians of the Weave]]. *(Open to discussing homebrew bonuses)*
-	2. Member of the [[Order of Tye]]. *(Open to discussing homebrew bonuses)*
 6. **[[House Rules]]**
 7.  **Session Zero**
+	- Shared Stats System (*Ask DM for clarification*)
 	- Modified Point Buy (16 Score cap per ability, still 27 point total) 
 		- [Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) 
 			- (Use *custom rules* tab to increase cap to 16)
 			- You will notice that going from 15 --> 16 costs 3 points instead of 2
 	- Modified Standard Array: Racial Bonus: +2, +1, +1
 	- You may try to request alternative methods
-	- Use Dom's character as a background creation model
-		- Simple, concise, easy to grasp the effects on the party
-		- Developing a dense intricate story is excellent, but only the DM needs that information dump
 	- Ask DM questions about rules, [[technicalities]], etc.
-
-### Summary
-- *I am so excited to play with all of you; this is the first game the I've written, so of course, there's excitement with unveiling it.*
-- *But what's far more exciting to me is to see how you'll interact with the story/charaters in unexpected ways and how the framework will react to your ideas and choices.*
-- *The goal is not to follow a rigid path, but to use this setting to tell **your** stories!*
 
