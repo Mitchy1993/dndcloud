@@ -1,2 +1,0 @@
-[[Shrekalina.jpg]]
-![[Shrekalina.jpg]]

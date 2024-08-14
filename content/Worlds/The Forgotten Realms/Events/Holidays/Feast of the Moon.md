@@ -1,6 +1,0 @@
-  - Autumn festival across the Forgotten Realms.
-  - Honors the dead and ancestors.
-  - Time for reflection, storytelling, and rituals.
-  - Communities gather to share tales of valor and pay homage.
-  - Rituals include offerings and ceremonies to appease spirits.
-  - Strengthens bonds with the past and ancestors.

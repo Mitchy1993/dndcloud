@@ -1,0 +1,58 @@
+---
+AssociatedGroup: Blood Hunters
+Gender: Male
+Race:
+  - Dhampir/Werewolf
+Age: "72"
+Class:
+  - Death Cleric
+Alignment: Chaotic Evil
+Character-Role: Assassin
+Location: High Moors
+NoteIcon: npc
+Vitality: Alive
+aliases:
+  - Shango
+Talespire Mini:
+---
+
+> [!infobox]
+> # `=this.file.name`
+> ![[Shango.jpg|cover hsmall]]
+> [[Shango.jpg|Show To Players]]
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Home | `=this.Location` |
+> Aliases |`=this.aliases`|
+> Group | `=this.AssociatedGroup` |
+> Sex | `=this.gender` |
+> Race | `=this.race` |
+> Age | `=this.age` |
+> Condition | Healthy |
+> ###### Additional Info
+> Type |  Stat |
+> ---|---|
+> Alignment | `=this.alignment` |
+> Class | `=this.class` |
+> Character Role | `=this.character-role` |
+
+# `=this.file.name`
+## Profile 
+***Shango Modar***, ***72 years old***
+*Son of [[Shantra]] Modar*
+*Son of [[Rath Modar]]*
+[[Shango Unveiled.jpg]], [[Shango Transformed.jpg]]
+[[Dhampir]] Cleric (*Sehanine Moonbow*), Death Domain
+
+Left in the [Dunwood Forest](https://forgottenrealms.fandom.com/wiki/Dunwood) by his mother at the age of 1. He was found by a large pack of werewolves who took him in, initially intending to eat him. However, the boy showed exceptional bravery and never cried when about to be devoured, earning him the respect of each werewolf in the pack that tried to eat him. As the child grew it was clear he was strong and an asset to the pack.
+
+They formally inducted him into their pack with "*The Biting*," the highest honor that could be bestowed on an outsider. Rather than forcing the curse of lycanthropy on an individual they pass it on out of love and acceptance rather than malice thereby passing on a far more controllable version of the curse.
+
+During the ritual it was revealed, by taste, that Shango was a Dhampir. He did not have the scent of a vampire, but his blood was tainted with undeath. 
+
+When Shango was 30 years old he decided to leave the pack to track down his mother, whom he believed may still be alive.
+
+His two closest friends Luna & Fenrir asked Shango to perform "*The Biting*" on them as a sign of love and solidarity despite whatever the future may bring. Shango obliged, mixing their werewolf blood with vampirism creating hybrid spawns.
+
+He never found his mother, but he did find a family in the Order of the [[Blood Hunter's]]. He now serves as a lieutenant, alongside Fade, working for [[Lyra Dawnfury]].

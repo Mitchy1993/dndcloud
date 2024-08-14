@@ -47,7 +47,7 @@ type: Fiend
 subtype: Demon
 alignment: Chaotic Evil
 ac: 13
-hp: 13
+hp: 39
 hit_dice: 6d10 + 6
 speed: 40 ft., climb 40 ft.
 stats:
@@ -73,7 +73,7 @@ cr: "1"
 bestiary: true
 traits:
   - name: Innate Spellcasting
-    desc: Gorthul's spellcasting ability is Wisdom (spell save DC 11). Gorthul can innately cast the following spells, requiring no material components
+    desc: Gorthul can innately cast spells, requiring no material components
   - name: Reckless Attack
     desc: On the first attack of a turn, decide to attack recklessly. Gives ADV on melee attacks, also grants advantage on attacks made at Gorthul until his next turn.
   - name: Running Leap
@@ -88,7 +88,7 @@ actions:
 source: Homebrew
 layout: Basic 5e Layout
 spells:
-  - "The mage is a 6th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The caster has the following artifcier spells prepared:"
-  - 1/day: Entangle, Disguise Self
-  - 2/day: Invisibility
+  - "The mage is a 6th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +6 to hit with spell attacks). The caster has the following artifcier spells prepared:"
+  - 1/day: Entangle, Phantasmal Force
+  - 2/day: Disguise Self, Invisibility(self)
 ```
