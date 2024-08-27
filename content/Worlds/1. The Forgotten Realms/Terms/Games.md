@@ -1,5 +1,5 @@
 - [[Baldur's Bones]]
 - [[Rollie's]]
-- [[Arcane Blitz]]
-- [[Monster's & Mayhem]]
-- 
+- [[Arcane Blitz]] - [[Athkatla]] based
+- [[Monster's & Mayhem]] - [[Athkatla]] based
+- [[Dhanar Dash]] - [[Athkatla]] based

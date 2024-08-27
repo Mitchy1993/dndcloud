@@ -31,7 +31,8 @@
 4. **Canon material that will be most relevant** 
 	- [[Mystra]], [[Weave]], [[Waterdeep]], [[Neverwinter]], [[Spellscarred]], [[Scar Pilgrimages]], [[Plaguechanged]]
 6. **[[House Rules]]**
-7.  **Session Zero**
+7. [[Harvesting & Crafting System]]
+8.  **Session Zero**
 	- Shared Stats System (*Ask DM for clarification*)
 	- Modified Point Buy (16 Score cap per ability, still 27 point total) 
 		- [Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) 
