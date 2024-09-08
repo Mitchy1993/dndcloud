@@ -1,7 +1,22 @@
 ---
 tags:
   - Faction
+Community-Size: Powerful Outpost
+Alignment: Lawful Evil
+Government: Autocracy
+Leader: "[[Lyra Dawnfury]]"
+PrimaryHome: "[[High Moors]]"
+NoteIcon: group
 ---
+
+> [!infobox]
+> # `=this.file.name`
+> ![[Blood Hunters.png]]
+> ###### Key Members
+> ```dataview
+table Race, Gender
+where contains(AssociatedGroup, this.file.name) 
+
 ### History
 
 #### Founding and Early Years (circa 1200 DR)

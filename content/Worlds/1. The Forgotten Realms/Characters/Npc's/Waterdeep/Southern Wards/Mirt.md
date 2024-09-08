@@ -1,4 +1,6 @@
 [[Mirt.png]]
+**Quests:** [[Mirt's Mystery Lady]]
+
 - https://forgottenrealms.fandom.com/wiki/Mirt
 - [Durnan](https://forgottenrealms.fandom.com/wiki/Durnan "Durnan") the Wanderer, a good friend;
 - [Ieiridauna Amalree](https://forgottenrealms.fandom.com/wiki/Ieiridauna_Amalree "Ieiridauna Amalree"), the [Watchghost](https://forgottenrealms.fandom.com/wiki/Watchghost "Watchghost") of Mirt's Mansion in Waterdeep;

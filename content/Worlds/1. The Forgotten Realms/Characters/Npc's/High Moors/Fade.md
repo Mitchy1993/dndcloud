@@ -1,8 +1,8 @@
 ---
-AssociatedGroup: "[[Blood Hunters]]"
+AssociatedGroup: Blood Hunters
 Gender: Female
 Race:
-  - Human/Vampire Spawn
+  - Half elf/Vampire Spawn
 Age: "92"
 Class: 
 Alignment: Chaotic Evil

@@ -1,94 +1,79 @@
-An enigmatic shadow druid, is a member of the secretive Purification Society, dedicated to eradicating what they see as impurities in nature. With a fanatical devotion to their cause, Brigham believes that only by purging the world of lesser races can nature truly thrive. Joining Timothy's rival party, Brigham sees an opportunity to further the goals of the Purification Society and cleanse the land of those he deems unworthy.
-![[Brigham Alikir.jpg]]
-![[Shadow Sapling.jpg]]
-# Circle of Shadow's Druid
-Circle of Shadows
+An enigmatic shadow druid, who wishes nothing but to become one with the Shadow's and to help all Druid's realize that when sentients occupy an area they brighten it with their bright lights and decimate the land however they see fit, but they cower before darkness. In the dark, those who most commonly destroy nature are lost while nature is able to thrive and expand.
+![[Brigham Alikir.jpg|500]]
+![[Shadow Sapling.jpg|500]]
 
-Those in this circle live where the canopy is thick. The crossroads where travelers lose their way in the forest and jungles. They see it as their sacred duty to be the necessary evil. Not a darkness born of necromancy or the nine hells but the cruel hand of nature herself.
+```statblock
+name: Druid of the Circle of Shadows
+size: Medium
+type: Humanoid
+subtype: Shapechanger
+alignment: Neutral Evil
+ac: 16
+hp: 130
+hit_dice: 15d8 + 45
+speed: 30 ft.
+stats:
+  - 10
+  - 16
+  - 14
+  - 12
+  - 18
+  - 20
+saves:
+  - Wisdom: 10
+  - Dexterity: 7
+  - Constitution: 6
+skillsaves:
+  - Stealth: 12
+  - Nature: 5
+  - Perception: 10
+damage_resistances: necrotic, bludgeoning/piercing/slashing (while in dim light or darkness)
+damage_immunities: ""
+condition_immunities: ""
+senses: Darkvision 90 ft. (60 ft. + 30 ft. from Strength of the Shadows), passive Perception 20
+languages: Common, Druidic, Sylvan
+cr: "8"
+bestiary: true
+traits:
+  - name: Bonus Cantrip
+    desc: The druid can cast Minor Illusion or Chill Touch as bonus cantrips.
+  - name: Strength of the Shadows
+    desc: The druid has resistance to necrotic damage and has Darkvision up to 60 ft. If they already have Darkvision, it is extended by 30 ft.
+  - name: Call of the Shadowseeds
+    desc: Whenever the druid deals necrotic damage, they can summon a Blighted Sapling. The sapling can immediately attack using the druid's spell attack modifier and deals 2d4 + Proficiency Bonus piercing damage. It gains multiattack at higher levels.
+  - name: Boogieman
+    desc: The druid can hide as a bonus action. Gains proficiency in Stealth, and in dim light or darkness, adds Wisdom modifier to Stealth checks. While in darkness or dim light, the druid also gains resistance to bludgeoning, piercing, and slashing damage.
+  - name: Fear the Dark
+    desc: When the druid hits a target with a spell attack while either they or the target are in dim light or darkness, the spell deals extra necrotic damage equal to the druid’s Wisdom modifier (+5). The druid can also force the target to make a Wisdom saving throw (DC 18), becoming frightened on a failed save until the end of the target's next turn.
+  - name: Shadowshift
+    desc: The druid can expend a use of their Wild Shape to assume the form of a Shadow.
+  - name: Life Drain (Shadow Form)
+    desc: While in Shadow Form, the druid heals for half the damage dealt.
+  - name: Sunlight Sensitivity (Shadow Form)
+    desc: While in Shadow Form, the druid suffers from Sunlight Sensitivity and vulnerability to radiant damage.
+actions:
+  - name: Multiattack
+    desc: The druid can make two melee attacks, or cast a spell and make one melee attack.
+    attack_bonus: 0
+  - name: Life Drain (Shadow Form)
+    desc: "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage, and the druid heals for half the damage dealt."
+    attack_bonus: 8
+    damage_dice: 2d6
+    damage_bonus: 2
+spells:
+  - "The druid is a 15th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The druid has the following spells prepared:"
+  - Cantrips (at will): Chill Touch, Minor Illusion, Druidcraft, Shillelagh
+  - 1st level (4 slots): Entangle, Faerie Fire, Cure Wounds, Detect Magic
+  - 2nd level (3 slots): Moonbeam, Pass without Trace, Hold Person
+  - 3rd level (3 slots): Call Lightning, Dispel Magic, Conjure Animals
+  - 4th level (3 slots): Shadow Blade, Darkness, Grasping Vine, Polymorph
+  - 5th level (2 slots): Bestow Curse, Mass Cure Wounds, Insect Plague
+  - 6th level (1 slot): Shadow of Moil, Heal
+  - 7th level (1 slot): Evard's Black Tentacles, Regenerate
+  - 8th level (1 slot): Negative Energy Flood, Feeblemind
+legendary_description: The druid can use Legendary Resistance (2/day). If they fail a saving throw, they can choose to succeed instead.
+reactions:
+  - name: Counterspell
+    desc: When another creature within 60 feet casts a spell, the druid can use their reaction to attempt to interrupt the spell. If the spell is 3rd level or lower, it automatically fails. If it is 4th level or higher, the druid must make an ability check using their spellcasting ability. The DC equals 10 + the spell's level.
 
-**2nd Level**
-
-Bonus Cantrip
-
-Upon joining this Circle you learn your the _Minor illusion_ or _Chill Touch_ Cantrip.
-
-_This is the optional ability, simply to get the theme across, though I’m happy to remove it_
-
-Strength of the Shadows
-
-Your familiarity with the shadows and dark places has caused you to become resistant to necrotic damage, in addition you gain darkvision to 60ft, if you already have darkvision its range is instead increased by 30ft.
-
-_I find this Thematic, and reasonably strong, though I’m keen to hear your thoughts_
-
-Shadow Form
-
-When you join this Circle at second level you learn the art of becoming a shadow. You may expend one use of your wild shape to become a _Shadow_ (MM.269) with the following changes.
-
-- the _Strength Drain_ Attack is replaced with the following attack. **Life Drain.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: (2d6 + 2) necrotic damage. On a hit your shadow form regains a number of hit points equal to half the damage dealt.
-    
-- it gains a number of additional hit die equal to half your Druid level rounded down.
-    
-
-The same rules apply as your regular Beast shapes and once you’ve used this ability, you cannot do so again until you’ve finished a long or short rest. At 10th level you may use your wild shape to assume this form as often as you wish.
-
-_before you panic, CR wise this is weaker than a moon druid, that said I know the potency of Shadows so until 10th level it’s limited to once per short rest, and from then till 20th it’s twice, in addition this form has a low AC and quite low health so I think it’s reasonable, though again criticisms are welcomed_
-
----
-
-**3rd Level**
-
-Bonus spells
-
-At 3rd, 5th, 7th, and 9th level you gain access to the following circle spells whispered to you by the archdruid ghosts of the Circle of Shadows. Once you gain access a circle spell. You always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spelllist, the spell is nonetheless a druid spell for you,
-
-|Druid Level|Circle Spells|
-|---|---|
-|3rd|Shadow Blade, Darkness|
-|5th|Bestow Curse, Fear|
-|7th|Shadow of Moil, Evards Black Tentacles|
-|9th|Mislead, Negative Energy Flood|
-
----
-
-**6th Level**
-
-Call of the Shadowseeds
-
-At level 6, your Defile Ground starts to foster new life. As a reaction when your Defile Ground does Necrotic damage to an enemy – who is not an Undead or Construct – you can summon a Blighted Sapling. This little fella can immediately attack and then obeys your commands. These last until you summon a new one, until you take a long rest, or until it reaches 0 hit points. You can only use this ability a number of times per day equal to your Proficiency modifier.
-
-The Sapling itself is _exceptionally_ weak defensively, sporting a mere 2 * Druid Level hitpoints. A Fireball will _decimate_ this thing, as it is Vulnerable to Fire. It has okay AC with 10 + Proficiency Bonus. It is an awful scout, though it does have Blindsight 60 feet. 
-
-Offensively, it has your spell attack modifier and 2d4 + PB piercing damage for a melee attack. That’s pretty solid! It’ll keep up with your accuracy and doesn’t do abysmal damage. At level 14, it gains Multiattack, getting two attacks.
-
-The limitation on daily uses should very rarely come up. 6 of these fellas should be plenty for a day. Try to time your reaction so this guy gets to attack _right_ before your turn, maximizing the number of times it can attack.
-
----
-
-**10th level**
-
-Boogieman
-
-At 10th level your ties with the Shadows have grown stronger, enhancing your abilities in the following ways,
-
-- You may Hide as a bonus action on each of your turns.
-    
-- You become proficient in the Stealth skill if you aren’t already and may add your wisdom modifier to any stealth checks you make in dim light or darkness.
-    
-- When in darkness or dim light you have resistance to piercing, bludgeoning and slashing damage.
-    
-- When you use your Shadow Form ability to become a shadow, you gain temporary hitpoints equal to your Druid level + your Wisdom Modifier, in addition that form loses its Sunlight Sensitivity and vulnerability to Radiant Damage.
-    
-
-_This is the level where it all comes together, where you truly become the boogie man, I think it accomplishes that without being overly powerful_
-
----
-
-**14th Level**
-
-Fear the Dark
-
-At 14th level the darkness brings you potency, if you hit a creature with a spell attack whilst either you or your target are in dim light or darkness, that spell deals additional necrotic damage equal to your Wisdom Modifier.
-
-In addition you may force the target to make a Wisdom saving throw against your Spell Save DC. On a failed save they become frightened of you until the end of its next turn. You may use this ability a number of times equal to your Wisdom modifier, regaining all uses after a short or long rest.
-
-_i think this fits the theme, but may be too powerful, please let me know, also tell me if this adds too many rolls_
+```

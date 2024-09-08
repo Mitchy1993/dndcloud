@@ -12,12 +12,16 @@ Despite the faults and politics of its members, the guild does provide services 
 
 It also keeps in stock some of the rarest ingredients needed to make these medicines, dealing with far-faring sea captains, traveling merchants, and caravan leaders to gain these from the far reaches of the Realms. Medical aid in Waterdeep is expensive;
 
-### Pricing
-- **Drugs**: 1-8gp per bottle (3-6 doses)
-- **Inpatient**: 10-20gp per day
-- **Emergency Room**: 50gp
-- **Resurrections**: Material Component cost of spell + Inpatient day's until a Physician has the slot available for you. (Patient's body must be admitted to receive resurrections)
+Yes, you’re correct. **Resurrection** is a 7th-level spell in Dungeons & Dragons. My previous table mistakenly listed it as a 5th-level spell. Let’s adjust the cost to reflect its proper spell level:
 
-**Insurance**: 10gp/yr, only pay ER fee, inpatient and meds waived.
+# Billing Standards for the Guild of Apothecaries & Physicians
 
-**Guild Member Insurance Discount(And Clerics of [[Ilmater]])**: 5gp/yr
+| **Service**                                   | **Estimated Real-World Cost (USD)** | **Cost in Gold (gp)** |
+| --------------------------------------------- | ----------------------------------- | --------------------- |
+| **Average Prescription (Chronic Condition)**  | $1,500 per month                    | 30 gp                 |
+| **ER Visit**                                  | $5,000                              | 100 gp                |
+| **Yearly Insurance (Comprehensive Coverage)** | $15,000                             | 300 gp                |
+| **Lesser Restoration (2nd-level spell)**      | $20,000                             | 400 gp                |
+| **Greater Restoration (5th-level spell)**     | $50,000                             | 1,000 gp              |
+| **Surgical Intervention and Recovery**        | $70,000                             | 1,400 gp              |
+| **Resurrection (7th-level spell)**            | Impossible                          | 5,000 gp              |

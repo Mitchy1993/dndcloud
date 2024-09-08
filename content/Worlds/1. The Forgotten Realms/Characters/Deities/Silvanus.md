@@ -1,1 +1,1 @@
-God of nature
+https://forgottenrealms.fandom.com/wiki/Silvanus

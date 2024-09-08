@@ -73,4 +73,5 @@
     - *Nature* uses INT or WIS.
     - *Religion* uses INT or WIS.
     - *Survival* uses INT or WIS.
+    - *Intimidation* uses STR
 19. [[Critical Injury Table]]

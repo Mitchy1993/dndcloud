@@ -1,4 +1,14 @@
 ![[Bramble.png]]
+### Bramble's Quest
+- Approached by [[Amantha]] before he could propose to Seraphina.
+- Frowned upon his meager flower necklace and a handmade ring carved from wood of an ancient oak.
+- Asked if he truly loved Seraphina, how can one know for sure unless that love has been tested?
+    - No bond can be stronger than one made with the Ring of Eternal Love.
+- She gave you two instructions:
+    - kill [[Grizz Glastow]] at [[House of Healing (Waterdeep)]], his accomplishments in [[Waterdeep]] send the wrong message to Goblin kind if he is allowed to rally others.
+    - obtain [[The Goblin King's Crown]]
+- In return, the [[Ring of Eternal Love]] will be his.
+
 
 ### Bramble's Letter
 My Dearest Rina,

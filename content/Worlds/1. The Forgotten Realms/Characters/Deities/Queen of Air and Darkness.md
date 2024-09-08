@@ -1,5 +1,5 @@
 [[The Queen of Air & Darkness.png]]
-![[The Queen of Air & Darkness.png]]
+![[The Queen of Air & Darkness.png|500]]
 # Short Version
 ## Description
 - The Queen of Air and Darkness lacks a physical form, her presence felt in the [[Unseelie Court]].

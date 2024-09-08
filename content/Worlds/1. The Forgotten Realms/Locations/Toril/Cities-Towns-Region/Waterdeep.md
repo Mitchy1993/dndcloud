@@ -74,8 +74,13 @@ Nibs - Copper
 # Party 2
 - Melvaunt Southern Wards supervisor "[[Madeus]] killed"
 - Dopplegangers Deceased
+- Rat King Deceased
+- [[Waterdeep Stables]] Bankruptcy after [[Potter Pettigrew]]'s honoring a terrible deal he made to the party.
 # Party 3
 - Turak Deceased
 - Roaming Bull Defeated at pit
+- Pirates jailed
+	- Harpers misled to pick a fight with the pirates; pirates took the fall of course.
 - Summoning circle ruined
+- [[The Undercroft]]
 
