@@ -4,13 +4,20 @@ tags:
 ---
 **Leader:** [Unthril Zond](https://forgottenrealms.fandom.com/wiki/Unthril_Zond)
 
-This is one of the richest guilds in Waterdeep, and has a somewhat checkered history. On several occasions, various of its members have been implicated in smuggling, fraudulent investment affairs, and similar instances of criminally imprudent investments of their monies. No doubt some of their fellows (who have not been caught) remain rich and with shady connections. This guild has also been at odds with the Lords as a group. Repeatedly the guild has tried to have all nonmember medical practitioners (including all clerics) banned from practicing in Waterdeep, so they would have to join the guild or cease providing aid to the sick (eliminating any competition). The Lords have strenuously resisted such efforts, executing on two occasions members of this guild who arranged assassination attempts upon the life of Piergeiron.
-
 ### Public Agenda
+This is one of the richest guilds in Waterdeep, and has a somewhat checkered history. On several occasions, its members have been implicated in smuggling, fraudulent investment affairs, and similar instances of criminally imprudent investments of their monies. No doubt some of their fellows remain rich and maintain shady connections. 
 
-Despite the faults and politics of its members, the guild does provide services of high quality. It maintains a Formulary in its headquarters (open to members only) that records agreed-upon formulae for many drugs and other medicinal remedies. 
+This guild has also been at odds with the [[Lords of Waterdeep|Lords]] in lobbying and legislature; repeatedly the guild has tried to have all non-guild medical practitioners (including all clerics) banned from practicing in Waterdeep (*eliminating any competition*). 
 
-It also keeps in stock some of the rarest ingredients needed to make these medicines, dealing with far-faring sea captains, traveling merchants, and caravan leaders to gain these from the far reaches of the Realms. Medical aid in Waterdeep is expensive;
+The Lords have strenuously resisted such efforts, and arrested high ranking members for assassination attempts on two occasions of Open Lord [Piergeiron](https://forgottenrealms.fandom.com/wiki/Piergeiron_Paladinson).
+
+### Medical Efficacy
+
+Despite the faults and politics of its members, the guild does provide services of **high quality**. It maintains a **Formulary** in its headquarters (open to members only) that records agreed-upon formulae for many drugs and other medicinal remedies. 
+
+It also keeps in stock some of the **rarest ingredients** needed to make these medicines, dealing with **far-faring sea captains**, traveling merchants, and caravan leaders to gain these from the far reaches of the Realms. 
+
+Medical aid in Waterdeep is expensive
 
 # Billing Standards for the Guild of Apothecaries & Physicians
 
