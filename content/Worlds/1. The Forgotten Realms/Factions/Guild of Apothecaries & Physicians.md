@@ -12,8 +12,6 @@ Despite the faults and politics of its members, the guild does provide services 
 
 It also keeps in stock some of the rarest ingredients needed to make these medicines, dealing with far-faring sea captains, traveling merchants, and caravan leaders to gain these from the far reaches of the Realms. Medical aid in Waterdeep is expensive;
 
-Yes, you’re correct. **Resurrection** is a 7th-level spell in Dungeons & Dragons. My previous table mistakenly listed it as a 5th-level spell. Let’s adjust the cost to reflect its proper spell level:
-
 # Billing Standards for the Guild of Apothecaries & Physicians
 
 | **Service**                                   | **Estimated Real-World Cost (USD)** | **Cost in Gold (gp)** |
