@@ -4,7 +4,7 @@ The Ring of Eternal Love is an ancient artifact, said to be crafted by deities o
 
 **Bond of Hearts.** The wearer of the Ring of Eternal Love and the giver share a deep, mystical connection. They can sense each other’s emotions and general well-being regardless of distance. This bond cannot be severed by any means, magical or otherwise.
 
-**Shared Vitality.** When either the wearer or the giver is reduced to 0 hit points, they can draw on the other's strength to stabilize. The wearer can choose to drop to 1 hit point instead of falling unconscious. This ability can be used once per long rest.
+**Shared Vitality.** When either the wearer or the giver is reduced to 0 hit points, they can draw on the other's strength to stabilize themselves so long as the other is not unconcious.
 
 **Telepathic Communication.** The wearer and the giver can communicate telepathically over any distance, as long as they are on the same plane of existence.
 

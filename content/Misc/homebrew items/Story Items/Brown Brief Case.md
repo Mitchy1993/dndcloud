@@ -9,3 +9,5 @@ The current password is: *Nanther*
 	- Creatures can make a Dexterity throw (DC 16) to dive away from cube of force to avoid being trapped inside of it.
 - The attuned creature can dismiss the cube force 
 	- The cube of force is dismissed automatically if the attunement is broken.
+
+[[Soul Stone.png|Inside]]
