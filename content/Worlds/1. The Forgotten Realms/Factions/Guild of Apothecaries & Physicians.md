@@ -2,7 +2,7 @@
 tags:
   - Faction
 ---
-**Leader:** [Unthril Zond](https://forgottenrealms.fandom.com/wiki/Unthril_Zond)
+**Leader:** [Unthril  Zond](https://forgottenrealms.fandom.com/wiki/Unthril_Zond)
 
 ### Public Agenda
 This is one of the richest guilds in Waterdeep, and has a somewhat checkered history. On several occasions, its members have been implicated in smuggling, fraudulent investment affairs, and similar instances of criminally imprudent investments of their monies. No doubt some of their fellows remain rich and maintain shady connections. 
