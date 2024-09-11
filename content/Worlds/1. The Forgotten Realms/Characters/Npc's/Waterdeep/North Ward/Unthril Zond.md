@@ -35,7 +35,7 @@ Talespire Mini: Noble Big
 > Character Role | `=this.character-role` |
 # Unthril Zond  
 ## Profile  
-Unthril Zond is the leader of the Guild of Apothecaries and Physicians in [[Waterdeep]], based in the North Ward. Born in 1305 DR, he has lived an unnaturally long life through a dark pact with the Mind Flayers of [[Ch'Chitl]]. In exchange for a steady supply of fresh human brains—gathered from deceased patients preserved by the **gentle repose** spell—Unthril receives shipments of cerebral spinal fluid from the Mind Flayers, granting him longevity and psychic resistance.
+Unthril Zond is the leader of the [[Guild of Apothecaries & Physicians]] in [[Waterdeep]], based in the North Ward. Born in 1305 DR, he has lived an unnaturally long life through a dark pact with the Mind Flayers of [[Ch'Chitl]]. In exchange for a steady supply of fresh human brains—gathered from deceased patients preserved by the **gentle repose** spell—Unthril receives shipments of cerebral spinal fluid from the Mind Flayers, granting him longevity and psychic resistance.
 
 At the [[House of Healing (Waterdeep)|House of Healing]] in Waterdeep, Unthril discreetly manages two crematories. While one serves the public for burning the dead, the other holds bodies enchanted with **[[gentle-repose|Gentle Repose]]**, their brains preserved for transport to the Underdark. Unthril himself smuggles these shipments to the Mind Flayers, maintaining the dark bargain that prolongs his life. He protects himself from psychic threats using a **[[Circlet of Intellect Guarding]]**, which shields him from psionics and psychic attacks.
 
