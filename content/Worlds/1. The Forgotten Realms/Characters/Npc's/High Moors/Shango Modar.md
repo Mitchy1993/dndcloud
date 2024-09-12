@@ -13,7 +13,7 @@ NoteIcon: npc
 Vitality: Alive
 aliases:
   - Shango
-Talespire Mini:
+Talespire Mini: Abyssal Werewolf(Shango) Vampire Gnoll(Luna & Fenrir)
 ---
 
 > [!infobox]

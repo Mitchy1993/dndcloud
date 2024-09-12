@@ -13,7 +13,7 @@ Vitality: Alive
 aliases:
   - Fade
   - Isolde Vayne
-Talespire Mini:
+Talespire Mini: Mara Vampire Witch Mage
 ---
 
 > [!infobox]

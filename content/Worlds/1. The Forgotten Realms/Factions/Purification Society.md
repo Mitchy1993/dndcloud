@@ -2,7 +2,6 @@
 tags:
   - Faction
 ---
-Rebranded underneath [[Melvaunt Incorporated]] to appeal to zealous personalities unmotivated by money. They kill many lesser races, but they also capture many to be sent to work in Melvaunt camps and operations as slaves.
 ### Ideology
 
 1. **Race Supremacy**: Belief in superiority of a few races, hunting others to maintain hierarchy.
@@ -25,8 +24,9 @@ Rebranded underneath [[Melvaunt Incorporated]] to appeal to zealous personalitie
 
 5. **[[dwarf]]**: Recognized for craftsmanship, resilience, and honor, vital contributors to society.
 
-6. **[[halfling]]**: Praised for luck, adaptability, and community bonds, resilient and resourceful. 
+6. **[[halfling]]**: Accepted for likeness to humans; praised for luck, adaptability, resilience and resourcefulness. 
 
 7. **[[tiefling]]**: Treated cautiously due to infernal lineage
 
-8. **Others**: Inferior races like [[Kenku]], [[orc]], [[goblin]], [[owlin]], and [[kobold]] are marginalized and often hunted or enslaved.
+8. **Others**: Inferior races like Kenku, Deep Gnomes, orcs, goblins, owlins, kobolds, and other minor races are marginalized and often hunted or enslaved.
+	- Drow are disliked as well, but the daunting repuation of Drow keeps them from being hunted. 
