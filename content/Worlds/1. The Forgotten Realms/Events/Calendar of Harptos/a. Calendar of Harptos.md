@@ -34,9 +34,7 @@ https://forgottenrealms.fandom.com/wiki/1502_DR - Year of the Pox Plague
 - **Highsun**: When the sun was directly overhead; also called "noon" or "twelve bells".
 - **Afternoon**: The time after noon.
 - **Dusk**: The time before sunset.
-- **Sunset**: The time around sunset.
 - **Evening**: The time after sunset.
-- **Midnight**: The time roughly 12 hours after noon; also called "twelve bells".
 - **Moondark**: The darkest part of night; also called "night's heart".
 - **Night's end**: The time before sunrise.
 

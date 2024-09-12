@@ -6,15 +6,9 @@
    - The course consists of **10 segments**. Each segment has an obstacle that players must overcome to move forward.
    - Obstacles will require different ability checks, with a distribution favoring Strength, Constitution, Wisdom, Intelligence, and Charisma to balance against Dexterity-based characters.
 
-2. **Turn Order:**
-   - Determine initiative as normal for the first round.
-   - At the end of each round, **initiative order changes** based on player position:
-     - The player furthest behind in the race goes first in the next round.
-     - The player in the lead goes last.
-     - If players are tied, their initiative bonus is the tie breaker
-
-3. **Winning:**
-   - The first player to cross the finish line after completing all segments wins the race.
+2. **Winning:**
+   - The first player to complete Segment 10 wins the race if they are the only person in segment 10 at the end of the round.
+	   - If 2 or more players are in segment 10 at the end a round a one time "roll off" occurs with no modifiers.
 
 ## **Basic Mechanics:**
 - **Movement:** 
@@ -62,22 +56,22 @@
 
 ### **Major Event Table (D10):**
 
-| **Roll** | **Event**                                                                                                                                                              |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | **Arcane Crackdown** - *The sound of screams and a burning temple can be heard*. Player's can not play actions this round                                              |
-| 2        | **Wild Animal Attack** - All players must make a Strength check (DC 14) or be forced to spend their turn fending off the animal.                                       |
-| 3        | **Flash Flood** - The course is temporarily flooded; all players move only 1 segment on their next turn regardless of roll.                                            |
-| 4        | **Rockslide** - All players make a DEX or STR check (DC 15) or be pushed back 2 segments.                                                                              |
-| 5        | **Earthquake** - All players must make a Constitution check (DC 14) or lose 1 segment and have disadvantage on their next movement roll.                               |
-| 6        | **Falling Tree** - The next player to move must make an Intelligence check (DC 14) to calculate where openings in the tree will form after falling or lose 2 segments. |
-| 7        | **Swarm of Insects** - All players make a Constitution check (DC 12) or be distracted and lose 1 segment.                                                              |
-| 8        | **Blinding Fog** - All players roll at disadvantage for their next movement.                                                                                           |
-| 9        | **Sudden Sinkhole** - The last player to move this round falls into a sinkhole and loses 2 segments.                                                                   |
-| 10       | **Lightning Strike** - The player in the lead must make a Luck check (DC 15) to dodge or lose 3 segments.                                                              |
+| **Roll** | **Event**                                                                                                                                                              |                                          |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1        | **Arcane Crackdown** - *The sound of screams and a burning temple can be heard*. Player's can not play actions this round                                              | [[Dhanar Dash#**Power-Ups **\|Power-up]] |
+| 2        | **Wild Animal Attack** - All players must make a Strength check (DC 14) or be forced to spend their turn fending off the animal.                                       |                                          |
+| 3        | **Flash Flood** - The course is temporarily flooded; all players move only 1 segment on their next turn regardless of roll.                                            | [[Dhanar Dash#**Power-Ups **\|Power-up]] |
+| 4        | **Rockslide** - All players make a DEX or STR check (DC 15) or be pushed back 2 segments.                                                                              |                                          |
+| 5        | **Earthquake** - All players must make a Constitution check (DC 14) or lose 1 segment and have disadvantage on their next movement roll.                               | [[Dhanar Dash#**Power-Ups **\|Power-up]] |
+| 6        | **Falling Tree** - The next player to move must make an Intelligence check (DC 14) to calculate where openings in the tree will form after falling or lose 2 segments. | [[Dhanar Dash#**Power-Ups **\|Power-up]] |
+| 7        | **Swarm of Insects** - All players make a Constitution check (DC 12) or be distracted and lose 1 segment.                                                              |                                          |
+| 8        | **Blinding Fog** - All players roll at disadvantage for their next movement.                                                                                           |                                          |
+| 9        | **Sudden Sinkhole** - The last player to move this round falls into a sinkhole and loses 2 segments.                                                                   |                                          |
+| 10       | **Lightning Strike** - The player in the lead must make a Luck check (DC 15) to dodge or lose 3 segments.                                                              |                                          |
 
 ## **Player Actions**
 
-During their turn, in addition to rolling for movement and facing obstacles, players can choose one of the following actions:
+***During their turn, in addition to rolling for movement and facing obstacles, players can choose one of the following actions***:
 
 ### **1. Sabotage (Hinder Another Player)** 1/Race
    - **Description:** Attempt to hinder another player by creating an obstacle, distracting them, or using a special ability.
@@ -87,20 +81,18 @@ During their turn, in addition to rolling for movement and facing obstacles, pla
      - If successful, the target must roll their next movement at disadvantage.
      - This action can only be used once per player per race.
 
-### **2. Rally (Bolster Your Effort)**
-   - **Description:** Bolster your own spirits and effort through sheer determination or clever strategy.
-   - **Mechanics:**
+### **2. Scout Ahead (improve Obstacle Performance)**
+- **Description:** Carefully observe the course ahead, planning how to take on the next obstacle.
+  - **Mechanics:**
      - Roll a **D20 + Charisma Modifier** against a DC 15.
      - On a success, gain advantage on your next obstacle check or movement roll.
-     - On a failure, no penalty, but you lose the opportunity to take another action this turn.
+     - On a failure, no penalty, but you lose the opportunity to "*Scout Ahead*" next turn.
 
-### **3. Scout Ahead (Control Segment Landing)** 1/Race
-   - **Description:** Carefully observe the course ahead, planning your moves to land on a more favorable segment.
+### **3.  Rally (Bolster Your Effort)** 1/Race
+- **Description:** Bolster your own spirits and effort through sheer determination or clever strategy.
    - **Mechanics:**
-     - Roll a **D20 + Intelligence Modifier** against a DC 14.
      - On a success, you may re-roll your movement dice (D20) and choose which result to use.
      - This action can only be used once per race.
-     - On a failure, you must keep your original movement roll.
 
 ### **4. Focus (Auto-Succeed on an Obstacle)** 1/Race
    - **Description:** Concentrate intensely to ensure you overcome the next obstacle without fail.
@@ -108,7 +100,6 @@ During their turn, in addition to rolling for movement and facing obstacles, pla
      - Roll a **D20 + Wisdom Modifier** against a DC 13.
      - On a success, you automatically succeed on the next obstacle check without needing to roll.
      - This action can only be used once per race.
-     - On a failure, you face the obstacle normally, but your movement for the turn is reduced by 1 segment.
 
 ### **5. Encourage (Help Another Player)**
    - **Description:** Shout words of encouragement or give a tactical tip to help another player.
@@ -116,22 +107,19 @@ During their turn, in addition to rolling for movement and facing obstacles, pla
      - Choose one player within 5 segments.
      - Roll a **D20 + Charisma Modifier** against a DC 12.
      - On a success, the chosen player gains advantage on their next movement or obstacle roll.
-     - On a failure, no penalty, but you lose the opportunity to take another action this turn.
 
 ### **6. Feint (Reverse the Order of Movement)**
    - **Description:** Use trickery or a feigned stumble to switch up the order of movements, giving you a strategic advantage.
    - **Mechanics:**
      - Roll a **D20 + Charisma Modifier** against a DC 16.
-     - On a success, you may swap your initiative position with any other player for the next round.
-     - On a failure, you take your turn as normal, but your movement is reduced by 1 segment.
+     - On a success, you may swap your initiative position with any other player on the next round.
 
 ### **Action Limitations:**
    - Players can only take **one action per turn** in addition to rolling for movement.
    - Certain actions can only be used once per race, as noted.
-   - Players cannot take the same action on consecutive turns.
 
 ## **Power-Ups:**
-- **Power-Up Zones:** Place power-ups in specific segments (e.g., segments 3, 6, and 9). When a player lands on a power-up zone, they roll a **D6** to determine the power-up:
+- **Power-Up Zones:** Place power-ups in specific segments (e.g., segments 1, 3, 5, 6). When a player lands on a power-up zone, they roll a **D6** to determine the power-up:
    - **1-2:** Speed Boost (+1 segment next turn)
    - **3-4:** Obstacle Bypass (auto-pass the next obstacle)
    - **5-6:** Trap (target a rival; they lose a segment)
@@ -140,5 +128,4 @@ During their turn, in addition to rolling for movement and facing obstacles, pla
 - **Slipstream:** The player in last place can roll an additional **D6** with their movement roll, adding the result to their movement for that turn.
 
 ## **Winning the Race:**
-- The first player to cross the finish line after overcoming the final obstacle wins.
 - The DM can offer small rewards or bonuses to the winner and other participants based on their performance.
