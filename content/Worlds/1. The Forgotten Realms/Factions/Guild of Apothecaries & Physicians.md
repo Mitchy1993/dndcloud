@@ -3,6 +3,19 @@ tags:
   - Faction
 ---
 **Leader:** [Unthril  Zond](https://forgottenrealms.fandom.com/wiki/Unthril_Zond)
+> [!infobox]
+> # `=this.file.name`
+> ![[Lathander_symbol.png]]
+> ######  
+> Party |  Renown |
+> |--|---|
+> JB, Cer, Dom, Ty | 21 (Max) |
+> [[Gloom Squad]] | 0 |
+> ###### Key Members
+> **Tim:** *"The Right & Left Hand*
+> ```dataview
+table Race, Gender
+where contains(AssociatedGroup, this.file.name) 
 
 ### Public Agenda
 This is one of the richest guilds in Waterdeep, and has a somewhat checkered history. On several occasions, its members have been implicated in smuggling, fraudulent investment affairs, and similar instances of criminally imprudent investments of their monies. No doubt some of their fellows remain rich and maintain shady connections. 
@@ -23,10 +36,9 @@ Medical aid in Waterdeep is expensive
 
 | **Service**                                   | **Estimated Real-World Cost (USD)** | **Cost in Gold (gp)** |
 | --------------------------------------------- | ----------------------------------- | --------------------- |
-| **Average Prescription (Chronic Condition)**  | $1,500 per month                    | 30 gp                 |
+| **Average Prescription (Chronic Condition)**  | $1,500 per month                    | 30 gp per month       |
 | **ER Visit**                                  | $5,000                              | 100 gp                |
 | **Yearly Insurance (Comprehensive Coverage)** | $15,000                             | 300 gp                |
 | **Lesser Restoration (2nd-level spell)**      | $20,000                             | 400 gp                |
 | **Greater Restoration (5th-level spell)**     | $50,000                             | 1,000 gp              |
-| **Surgical Intervention and Recovery**        | $70,000                             | 1,400 gp              |
 | **Resurrection (7th-level spell)**            | Impossible                          | 5,000 gp              |

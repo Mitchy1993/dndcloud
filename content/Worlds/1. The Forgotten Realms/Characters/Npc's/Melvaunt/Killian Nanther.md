@@ -3,11 +3,12 @@
 
 Leader of the interplanar Thieves Guild known as the [[Shadow Syndicate]].
 
-Killian's operations in the Shadowfell are managed by  [[Melvaunt]] . 
+Killian's operations in the Shadowfell are managed by the [[Shadow Syndicate#**Wraiths ** Shadowfell Division|Wraiths]]
+Killian focuses mostly on the material plain with [[Shadow Syndicate#**The Clockwork Hand ** Material Plane Division|The Clockwork Hand]]
 
-Became a big brother to [[Arlo Gleamfoot]] growing up, teaching Arlo everything there is know about the streets, corruption, wealth and power.
-w
-Personally trained Elias Thorne, who went on to become his most prolific student before eventually ghosting the Syndicate in Marpenoth 1502 DR.
+- Became a big brother to [[Arlo Gleamfoot]] growing up, teaching Arlo everything there is know about the streets, corruption, wealth and power.
+
+- Personally trained [[Elias Thorne]], who went on to become his most prolific student before eventually ghosting the Syndicate in Marpenoth 1502 DR.
 
 Son of [[Warren Nanther]]
 

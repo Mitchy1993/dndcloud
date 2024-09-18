@@ -8,7 +8,7 @@ Killian Nanther is the cold, calculating mastermind behind the Shadow Syndicate.
 
 ---
 
-### Shadowfell Division: **Wraiths**
+### **Wraiths:** Shadowfell Division
 The **Wraiths** manage the Shadow Syndicate’s operations across the Shadowfell, specializing in dark magic, espionage, and shadowy dealings. Their influence spreads from their stronghold in **Gloomwrought**, known as **Shadekeep**, a hidden mansion deep within the ever-changing streets of the city.
 
 #### Key Members:
@@ -36,7 +36,7 @@ The **Wraiths** manage the Shadow Syndicate’s operations across the Shadowfell
 
 ---
 
-### Material Plane Division: **The Clockwork Hand**
+### **The Clockwork Hand:** Material Plane Division
 Operating in the industrial, steampunk city of **Melvaunt**, **The Clockwork Hand** is the Syndicate's Material Plane faction, handling mechanical espionage, sabotage, and precise industrial heists.
 
 #### Key Members:

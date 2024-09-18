@@ -12,6 +12,11 @@ NoteIcon: group
 > [!infobox]
 > # `=this.file.name`
 > ![[Blood Hunters.png]]
+> ######  
+> Party |  Renown |
+> |--|---|
+> JB, Cer, Dom, Ty | -1 |
+> [[Gloom Squad]] | 0 |
 > ###### Key Members
 > ```dataview
 table Race, Gender

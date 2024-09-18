@@ -1,15 +1,18 @@
 ---
-AssociatedGroup: Guild of Apothecaries and Physicians
+AssociatedGroup: Guild of Apothecaries & Physicians
 Gender: Male
-Race: Human
+Race:
+  - Human
 Age: "197"
-Class: Illusionist/Healer
+Class:
+  - Illusionist/Healer
 Alignment: Neutral Evil
 Character-Role: Guild Leader
-Location: "[[Waterdeep]]" 
+Location: "[[Waterdeep]]"
 NoteIcon: npc
 Vitality: Alive
-aliases: Master Physic
+aliases:
+  - Master Physic
 Talespire Mini: Noble Big
 ---
 
@@ -40,7 +43,7 @@ Unthril Zond is the leader of the [[Guild of Apothecaries & Physicians]] in [[Wa
 
 At the [[House of Healing (Waterdeep)|House of Healing]] in Waterdeep, Unthril discreetly manages two crematories. While one serves the public for burning the dead, the other holds bodies enchanted with **[[gentle-repose|Gentle Repose]]**, their brains preserved for transport to the Underdark. Unthril himself smuggles these shipments to the Mind Flayers, maintaining the dark bargain that prolongs his life. He protects himself from psychic threats using a **[[Circlet of Intellect Guarding]]**, which shields him from psionics and psychic attacks.
 
-Unthril lives in an elaborate townhouse in the North Ward, attended to by his faithful butler, **Randy Cubblepot**. Randy is devoted to Unthril, tending to his home and preparing meals from exotic ingredients that Unthril brings back from the Underdark. Randy is known for repeating Unthril’s commands back to him, always finishing with the phrase: *"Per Lord Zond, of course."* His loyalty is unwavering, and he maintains the household meticulously, despite the unsettling nature of the supplies that Unthril brings back.
+Unthril lives in an elaborate townhouse in the North Ward, attended to by his faithful butler, **[[Randy Cubblepot]]**. Randy is devoted to Unthril, tending to his home and preparing meals from exotic ingredients that Unthril brings back from the Underdark. Randy is known for repeating Unthril’s commands back to him, always finishing with the phrase: *"Per Lord Zond, of course."* His loyalty is unwavering, and he maintains the household meticulously, despite the unsettling nature of the supplies that Unthril brings back.
 
 ### Unthril's Home and Arcade 
 Though Unthril is wealthy, most of his personal funds are tied up in investments with [[Mirt]] the Moneylender. He has a private stash of silver, but it's locked behind a series of games within his personal arcade, accessible only by winning at these games.
