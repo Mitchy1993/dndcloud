@@ -33,6 +33,18 @@ imports:
   - Rare Spell Components
 ---
 ### Waterdeep
+> [!infobox]
+> # `=this.file.name`
+> ![[]]
+> ######  
+> Party |  [[Renown]] |
+> |--|---|
+> JB, Cer, Dom, Ty | 4 (Minor) |
+> [[Gloom Squad]] | 0 |
+> ###### Key Members
+> ```dataview
+table Race, Gender
+where contains(AssociatedGroup, this.file.name) 
 
 **Part of the [[Lord's Alliance]]**
 **Social Hubs:** [[Yawning Portal]], [[Evernight]], [[Waterdeep Entertainment Schedule]]

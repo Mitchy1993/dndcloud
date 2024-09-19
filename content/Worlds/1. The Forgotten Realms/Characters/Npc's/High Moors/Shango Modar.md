@@ -1,5 +1,6 @@
 ---
 AssociatedGroup: Blood Hunters
+Group: "[[Blood Hunters]]"
 Gender: Male
 Race:
   - Dhampir/Werewolf
@@ -13,7 +14,7 @@ NoteIcon: npc
 Vitality: Alive
 aliases:
   - Shango
-Talespire Mini: Abyssal Werewolf(Shango) Vampire Gnoll(Luna & Fenrir)
+Talespire Mini: Werewolf Black(Shango) Vampire Gnoll(Luna & Fenrir)
 ---
 
 > [!infobox]
@@ -25,7 +26,7 @@ Talespire Mini: Abyssal Werewolf(Shango) Vampire Gnoll(Luna & Fenrir)
 > ---|---|
 > Home | `=this.Location` |
 > Aliases |`=this.aliases`|
-> Group | `=this.AssociatedGroup` |
+> Group | `=this.Group` |
 > Sex | `=this.gender` |
 > Race | `=this.race` |
 > Age | `=this.age` |
@@ -45,11 +46,13 @@ Talespire Mini: Abyssal Werewolf(Shango) Vampire Gnoll(Luna & Fenrir)
 [[Shango Unveiled.jpg]], [[Shango Transformed.jpg]]
 [[Dhampir]] Cleric (*Sehanine Moonbow*), Death Domain
 
-Left in the [Dunwood Forest](https://forgottenrealms.fandom.com/wiki/Dunwood) by his mother at the age of 1. He was found by a large pack of werewolves who took him in, initially intending to eat him. However, the boy showed exceptional bravery and never cried when about to be devoured, earning him the respect of each werewolf in the pack that tried to eat him. As the child grew it was clear he was strong and an asset to the pack.
+Left in the [Dunwood Forest](https://forgottenrealms.fandom.com/wiki/Dunwood) by his mother as a fresh newborn in 1430 DR. 
 
-They formally inducted him into their pack with "*The Biting*," the highest honor that could be bestowed on an outsider. Rather than forcing the curse of lycanthropy on an individual they pass it on out of love and acceptance rather than malice thereby passing on a far more controllable version of the curse.
+Shango was found by a large pack of werewolves who took him in, initially intending to eat him. However, the boy showed exceptional bravery and never cried when about to be devoured, earning him the respect of each werewolf in the pack that tried to eat him. As the child grew it was clear he was strong and an asset to the pack.
 
-During the ritual it was revealed, by taste, that Shango was a Dhampir. He did not have the scent of a vampire, but his blood was tainted with undeath. 
+They formally inducted him into their pack with "*The Biting*," a magical ritual and highest honor that could be bestowed on an outsider. Rather than forcing the curse of lycanthropy on an individual they pass it on out of love and acceptance rather than malice thereby passing on a far more controllable version of the curse.
+
+During the ritual it was revealed, by taste, that Shango was a Dhampir. He did not have the scent of a vampire, but his blood was powerfully tainted with unholy power. 
 
 When Shango was 30 years old he decided to leave the pack to track down his mother, whom he believed may still be alive.
 

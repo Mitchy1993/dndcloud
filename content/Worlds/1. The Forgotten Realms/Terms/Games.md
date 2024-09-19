@@ -1,5 +1,6 @@
 - [[Baldur's Bones]]
-- [[Rollie's]]
+- [[Rollie's]] - Does not qualify for Zond's Games, although he does own dice.
 - [[Arcane Blitz]] - [[Athkatla]] based
 - [[Monster's & Mayhem]] - [[Athkatla]] based
 - [[Dhanar Dash]] - [[Athkatla]] based
+- [[Goblin Blackjack]]
