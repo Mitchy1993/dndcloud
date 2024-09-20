@@ -31,6 +31,7 @@ exports:
 imports:
   - Exotic Goods
   - Rare Spell Components
+After Hours:
 ---
 ### Waterdeep
 > [!infobox]
@@ -39,7 +40,7 @@ imports:
 > ######  
 > Party |  [[Renown]] |
 > |--|---|
-> JB, Cer, Dom, Ty | 4 (Minor) |
+> JB, Cer, Dom, Ty | 10 (Minor)(Unthril/Whiskey) |
 > [[Gloom Squad]] | 0 |
 > ###### Key Members
 > ```dataview

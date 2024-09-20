@@ -18,7 +18,7 @@ Talespire Mini: Mister Witch
 ---
 
 > [!infobox]
-> # `=this.file.name`
+> # `=this.file.name`/Naeryx Krumple
 > ![[Warren Nanther.gif|cover hsmall]]
 > [[Warren Nanther.gif|Show To Players]]
 > ###### Basic Information
@@ -38,7 +38,7 @@ Talespire Mini: Mister Witch
 > Class | `=this.class` |
 > Character Role | `=this.character-role` |
 
-# `=this.file.name`
+# `=this.file.name`/Naeryx Krumple/Mr. Witch
 **Favorite saying from Father** - *My business, my coin, and my [[Raven Queen|Queen]]
 ## Profile
 - Lord Chancellor of Melvaunt's Council of Lords, the ruling body.
