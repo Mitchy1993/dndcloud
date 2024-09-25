@@ -1,1 +1,0 @@
-Use STR or DEX for attack & damage rolls

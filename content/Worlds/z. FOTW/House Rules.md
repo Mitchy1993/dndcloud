@@ -75,3 +75,5 @@
     - *Survival* uses INT or WIS.
     - *Intimidation* uses STR
 19. [[Critical Injury Table]]
+20. [[Armor Durability System]]
+	- A Critical Hit breaks the armor integrity of armor dealing damage to it directly. If the Armor's HP is brought to 0 then the armor loses up to 2 AC maximum *(armor cannot lose more than 2)*
