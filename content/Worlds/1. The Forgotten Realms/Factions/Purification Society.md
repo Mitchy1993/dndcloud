@@ -10,8 +10,6 @@ tags:
 
 3. **Redemption Prophecy**: Belief in eliminating races for utopian future, making tough choices for destiny.
 
-4. **Humane Policy:** Will not lethally hunt children, but will happily enslave them. 
-
 #### Hierarchy of Races
 
 1. **[[human]]**: Esteemed for diversity, ambition, and adaptability, prominent in various fields.

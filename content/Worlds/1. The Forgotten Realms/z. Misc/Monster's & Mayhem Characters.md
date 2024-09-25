@@ -23,9 +23,9 @@
 - **Nimble Escape**: The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
 **Actions**:
-- **Multiattack**: The goblin makes two attacks with its scimitar.
+- **Multiattack**: The goblin makes two attacks with its scimitar or crossbow
 - **Scimitar**: *Melee Weapon Attack*: +5 to hit, reach 5 ft., one target. *Hit*: 7 (1d6 + 3) slashing damage.
-- **Shortbow**: *Ranged Weapon Attack*: +5 to hit, range 80/320 ft., one target. *Hit*: 7 (1d6 + 3) piercing damage.
+- **Goblin Crossbow**: *Ranged Weapon Attack*: +5 to hit, range 80/320 ft., one target. *Hit*: 7 (1d6 + 3) piercing damage.
 
 ---
 
@@ -53,9 +53,9 @@
 - **Regeneration**: The troll regains 5 hit points at the start of its turn. If the troll takes fire or acid damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
 
 **Actions**:
-- **Multiattack**: The troll makes two attacks with its claws.
+- **Multiattack**: The troll makes two claw attacks or one bite attack
 - **Claw**: *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. *Hit*: 8 (1d6 + 4) slashing damage.
-- **Bite**: *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. *Hit*: 7 (1d6 + 4) piercing damage.
+- **Bite**: *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. *Hit*: 7 (1d6 + 4) piercing damage and the creature must make a DC 13 acrobatics or athletics check to avoid being grappled
 
 ---
 
@@ -146,8 +146,6 @@
 **Actions**:
 - **Multiattack**: The fighter makes two attacks with their longsword.
 - **Longsword**: *Melee Weapon Attack*: +5 to hit, reach 5 ft., one target. *Hit*: 8 (1d8 + 3) slashing damage, or 9 (1d10 + 3) if used with two hands.
-- **Heavy Crossbow**: *Ranged Weapon Attack*: +3 to hit, range 100/400 ft., one target. *Hit*: 7 (1d10 + 1) piercing damage.
-
 ---
 
 ### Rogue
