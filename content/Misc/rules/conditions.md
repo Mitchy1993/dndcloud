@@ -13,11 +13,20 @@ _Source: SRD / Basic Rules_
 - A blinded creature can't see and automatically fails any ability check that requires sight.  
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.  
 
+## Burning 
+
+- Burning creatures take 1d4 at the start of each of their turns
+- Creatures can use an action to make a DC 10 DEX check to put out flames, unless the effect that gave this condition specifies otherwise.
+
 ## Charmed
 _Source: SRD / Basic Rules_
 
 - A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.  
 - The charmer has advantage on any ability check to interact socially with the creature.  
+
+## Chilled 
+- Affected entity is vulnerable to *Cold* damage and resistant to *Fire* damage.
+- Applying *Wet* to a *Chilled* entity will make it [[conditions#Freezing|freezing]] for 1 turn
 
 ## Concentration
 _Source: SRD / Basic Rules_
@@ -62,6 +71,11 @@ An effect that removes exhaustion reduces its level as specified in the effect's
 
 Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink. Also, being raised from the dead reduces a creature's exhaustion level by 1.
 
+## Freezing 
+- 10 ft speed reduction
+- Disadvantage on DEX Saves & Attack Rolls
+- DC 13 **Con save** at the end of turn each turn, removes condition on success
+
 ## Frightened
 _Source: SRD / Basic Rules_
 
@@ -89,10 +103,11 @@ _Source: SRD / Basic Rules_
 ## Paralyzed
 _Source: SRD / Basic Rules_
 
-- Paralyzed creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of paralysis.
-- The creature automatically fails Strength and Dexterity saving throws.  
-- Attack rolls against the creature have advantage.  
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.  
+- Paralyzed creatures have a **speed of 0**
+- The creature automatically **fails Strength** and **Dexterity** saving throws.  
+- Attack rolls against the creature have ***advantage***.  
+- Any attack that hits the creature is a **critical hit** if the attacker is within 5 feet of the creature.
+- Attacks made by the creature are made at ***disadvantage*** & saving throws it forces other creatures to make are made with ***advantage***
 
 ## Petrified
 _Source: SRD / Basic Rules_
@@ -126,9 +141,24 @@ _Source: SRD / Basic Rules_
 ## Stunned
 _Source: SRD / Basic Rules_
 
-- Stunned creatures have a speed of 0 and take disadvantage on all saves, checks, attacks, etc until the end of the stun.
-- The creature automatically fails Strength and Dexterity saving throws.  
-- Attack rolls against the creature have advantage.  
+- Stunned creatures have a **speed of 0**
+- The creature automatically **fails Strength** and **Dexterity** saving throws.  
+- Attack rolls against the creature have ***advantage***.  
+- Attacks made by the creature are made at ***disadvantage*** & saving throws it forces other creatures to make are made with ***advantage***
+
+  
+## Suffocating
+
+A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
+
+When a creature runs out of breath or is choking, it is **_incapacitated_** and can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it **_dies_**.
+
+*For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to be exposed to air before it dies.
+
+## Surprised
+Occurs when an malicious act initiates combat with a stealth roll superior to the victim's passive perception; in rare circumstantial moments even allies may be surprised by certain actions.
+- Surprised creatures roll initiative at disadvantage. 
+- Surprised creatures can not use reactions until their first turn of combat.
 
 ## Unconscious
 _Source: SRD / Basic Rules_
