@@ -1,4 +1,5 @@
 ![[Herbs-Potion System.png|500]]
+*see also: [[Hunting-Crafting]]*
 ### **Gathering Ingredients**
 - Make a ***DC 15 Survival or Nature*** check and collect 1 herb and 1 suspension ingredient by rolling on the corresponding tables.
 
@@ -119,18 +120,18 @@ When a player mixes herbs and suspensions that do not result in a potion it crea
 
 ### **1. Major Negative Effect (1-7 on d20)**
 
-| d10 Roll | Effect                                              |
-| -------- | --------------------------------------------------- |
-| 1        | Violent Sickness (vomit, take 2d6 poison damage, lose next action) |
-| 2        | Transformation (turn into a harmless animal for 1d6 minutes) |
-| 3        | Blindness (you are blinded for 10 minutes)           |
-| 4        | Deafness (you are deafened for 10 minutes)           |
-| 5        | Major Exhaustion (2 levels of exhaustion)            |
-| 6        | Curse of Bad Luck (disadvantage on all saving throws for 1 hour) |
-| 7        | Fear Effect (make a DC 14 Wisdom save or be frightened for 1 minute) |
-| 8        | Temporary Paralysis (you are paralyzed for 1 minute) |
+| d10 Roll | Effect                                                                                           |
+| -------- | ------------------------------------------------------------------------------------------------ |
+| 1        | Violent Sickness (vomit, take 2d6 poison damage, lose next action)                               |
+| 2        | Transformation (turn into a harmless animal for 1d6 minutes)                                     |
+| 3        | Blindness (you are blinded for 10 minutes)                                                       |
+| 4        | Deafness (you are deafened for 10 minutes)                                                       |
+| 5        | Major Exhaustion (2 levels of exhaustion)                                                        |
+| 6        | Curse of Bad Luck (disadvantage on all saving throws for 1 hour)                                 |
+| 7        | Fear Effect (make a DC 14 Wisdom save or be frightened for 1 minute)                             |
+| 8        | Temporary Paralysis (you are paralyzed for 1 minute)                                             |
 | 9        | Explosive Reaction (potion explodes, dealing 2d6 fire damage to you and creatures within 5 feet) |
-| 10       | Memory Loss (you forget the last hour of your life)  |
+| 10       | Memory Loss (you forget the last hour of your life)                                              |
 
 ---
 
@@ -170,15 +171,15 @@ When a player mixes herbs and suspensions that do not result in a potion it crea
 
 ### **4. Unexpected Boon (Nat 20 on d20)**
 
-| d10 Roll | Effect                                              |
-| -------- | --------------------------------------------------- |
-| 1        | Bonus Healing (gain 1d6 temporary hit points)        |
+| d10 Roll | Effect                                                             |
+| -------- | ------------------------------------------------------------------ |
+| 1        | Bonus Healing (gain 1d6 temporary hit points)                      |
 | 2        | Luck Surge (advantage on next attack roll, save, or ability check) |
-| 3        | Temporary Flight (fly speed of 10 feet for 10 minutes) |
-| 4        | Boosted Senses (advantage on perception checks for 1 hour) |
-| 5        | Temporary Insight (advantage on insight checks for 1 hour) |
-| 6        | Speed Boost (your speed increases by 10 feet for 1 minute) |
-| 7        | Minor Regeneration (heal 1 hit point per minute for 1 hour) |
-| 8        | Darkvision (gain darkvision out to 60 feet for 1 hour) |
-| 9        | Fire Resistance (resistance to fire damage for 1 hour) |
-| 10       | Magical Aura (+1 to AC for 10 minutes)               |
+| 3        | Temporary Flight (fly speed of 10 feet for 10 minutes)             |
+| 4        | Boosted Senses (advantage on perception checks for 1 hour)         |
+| 5        | Temporary Insight (advantage on insight checks for 1 hour)         |
+| 6        | Speed Boost (your speed increases by 10 feet for 1 minute)         |
+| 7        | Minor Regeneration (heal 1 hit point per minute for 1 hour)        |
+| 8        | Darkvision (gain darkvision out to 60 feet for 1 hour)             |
+| 9        | Fire Resistance (resistance to fire damage for 1 hour)             |
+| 10       | Magical Aura (+1 to AC for 10 minutes)                             |
