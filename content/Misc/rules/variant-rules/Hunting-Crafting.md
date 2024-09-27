@@ -7,6 +7,7 @@
 	2. On a successful hunt, you gain the relevant animal part. Failure against dangerous animals will result in a *"Hunting Accident"*
 2. **Combine with Enhancers**: Visit a professional, workshop, or store to combine animal parts with one of **four Crafting Enhancers** to unlock special properties.
 3. **Crafting Outcome**: Using the correct enhancer allows you to craft the item and gain its unique properties.
+	- Using an incorrect enhancer will allow you to craft a temporary item with [[Hunting-Crafting#**Wild Crafting System (For Hunting-Crafting)**|Wild Crafting]]
 
 ---
 
@@ -56,10 +57,10 @@ This system applies when players combine animal parts and crafting enhancers in 
 1. **Crafting Attempt**: When players craft an item without matching an official recipe, roll on the Wild Crafting table to determine how long the item will last.
 
 2. **Roll a d20**: The player rolls a **d20** to determine the item's durability or lifespan.
-   - Low rolls (1-7): **Short Lifespan** (item lasts for a brief moment or single encounter)
+   - Low rolls (1-7): **Short Lifespan** (item lasts for a single encounter when equipped)
    - Mid rolls (8-14): **Moderate Lifespan** (item lasts for 1d2 days)
    - High rolls (15-19): **Long Lifespan** (item lasts for 1d4 days)
-   - **Nat 20**: **Permanent** (the item is fully functional and stable)
+   - **Nat 20**: **Permanent** (*the item is fully functional and stable)*
 
 ---
 
