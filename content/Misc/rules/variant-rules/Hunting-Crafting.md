@@ -73,12 +73,13 @@ This system applies when players combine animal parts and crafting enhancers in 
 | 15-19    | **Long Lifespan**     | Lasts for 1d4 days.                                   |
 | 20       | **Permanent**         | Item becomes fully functional with no lifespan limit. |
 
-| Crafting Enhancer Bonus |
-| -------- | --------------------- |
-| [[Moonstone Dust]]      | +0 |
-| [[Silver Thread]]     | +2 |
-| [[Obsidian Shard]]    | +5     |
-| [[Phoenix Ash]]       | Always permanent         |
+| Crafting Enhancer   | Bonus            |
+|---------------------|------------------|
+| Moonstone Dust       | +0               |
+| Silver Thread        | +2               |
+| Obsidian Shard       | +5               |
+| Phoenix Ash          | Always permanent |
+
 ### **Wild Crafting Lifespan Examples**
 
 **Short Lifespan (d20 roll of 5)**: The player crafts a "**Stealth Cloak**" using **Fox Fur** and **Moonstone Dust**, but it only works until the next dawn before the magic fades and the cloak falls apart.
