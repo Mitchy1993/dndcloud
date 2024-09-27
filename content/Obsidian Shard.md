@@ -1,0 +1,1 @@
+Harvested from volcanic regions like Mount Hotenow or the Smoking Mountains, obsidian is traded by deep gnomes or rare volcanic merchants.

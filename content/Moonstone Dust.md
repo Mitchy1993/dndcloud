@@ -1,0 +1,1 @@
+Sourced from the elven moonstone mines of Evermeet or Silverymoon. Traders acquire it through elven merchants or arcane suppliers.

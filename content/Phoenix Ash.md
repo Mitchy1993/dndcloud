@@ -1,0 +1,1 @@
+Rare and magical, phoenix ash is obtained from distant expeditions to magical hotspots like the Elemental Plane of Fire or through powerful wizards who occasionally trade it.

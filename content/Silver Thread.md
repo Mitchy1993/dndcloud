@@ -1,0 +1,1 @@
+Crafted by skilled dwarven smiths from Mithral Hall or the Ironmaster, it's sold to master tailors and high-end markets across the Realms.
