@@ -1,8 +1,8 @@
 ![[Herbs-Potion System.png|500]]
 *see also: [[Hunting-Crafting]]*
 ### **Gathering Ingredients**
-- Make a ***DC 15 Survival or Nature*** check and collect 1 herb and 1 suspension ingredient by rolling on the corresponding tables.
-
+- Make a ***DC 17 Survival or Nature*** check and collect 1 herb and 1 suspension ingredient by rolling on the corresponding tables.
+	- Regional effects may apply
 ### **Crafting a Potion**
 - During a long rest, a character may attempt to combine a herb and suspension with a ***DC 15 Nature or Survival*** check using the appropriate crafting tools.
 - Success will create a potion depending on the herb and suspension used.
@@ -14,43 +14,45 @@
 
 | #   | Herb               | Effect Description (Determines Potion Type)                     |
 | --- | ------------------ | -------------------------------------------------------------- |
-| 1   | Belladonna (Deadly Nightshade) | Poison effect                                                    |
+| 1   | [[Belladonna]] (*Deadly Nightshade*) | Poison effect                                                    |
 | 2   | Black Lotus        | Dark or shadow-related effects (stealth, curses)                |
-| 3   | Bloodroot          | Healing effect                                                  |
+| 3   | [[Bloodroot]]          | Healing effect                                                  |
 | 4   | Bryony             | Strength or vitality enhancement                                |
 | 5   | Clover (Four-leaf) | Luck-enhancing effects                                          |
 | 6   | Fennel Silk        | Healing (minor, applied)                                        |
-| 7   | Frost Moss         | Cold resistance or protection                                   |
+| 7   | Environmental Moss         | Elemental resistance or protection based on area grown                                   |
 | 8   | Garlic             | Protection against undead                                       |
 | 9   | Ginger             | Health and vitality-boosting effects                            |
 | 10  | Hellebore          | Poison or curse effects                                         |
-| 11  | Mandrake Root      | Magical awakening or true sight effects                         |
+| 11  | [[Mandrake Root]]      | Magical awakening or true sight effects                         |
 | 12  | Mugwort            | Dream or prophecy-related effects                               |
 | 13  | Rosemary           | Memory or intelligence-boosting effects                         |
 | 14  | Sage               | Purification and protection against magic                       |
 | 15  | Thyme              | Courage or strength enhancement                                 |
 | 16  | Valerian Root      | Sleep-inducing or calming effects                               |
-| 17  | Wolfsbane (Aconite)| Protection against lycanthropy and shape-shifting               |
-| 18  | Wormwood           | Paralysis or undeath-related effects                            |
+| 17  | [[Wolfsbane]] (Aconite)| Protection against lycanthropy and shape-shifting               |
+| 18  | [[Wormwood]]           | Paralysis or undeath-related effects                            |
 | 19  | Yarrow             | Healing and wound treatment effects                             |
 | 20  | Player’s Choice    | Player can choose any herb from this list to collect            |
 
 ---
 
 ### **Part 2: Suspensions Table (Strength Determination)**
+- Some enviroments/regions will allow a coin flip to be made during a successful [[Herbs-Potion Crafting#**Gathering Ingredients**|Gathering Check]]
+	- On a successful coin flip the environment/region specific suspension will be collected in additon to normal gathering.
 
-| #   | Suspension                | Strength Description (Determines Potion Strength)        |
-| --- | ------------------------- | ------------------------------------------------------- |
-| 1   | Spring Water              | Weak (minor effect)                                      |
-| 2   | Distilled Vinegar         | Moderate (poisons and antidotes, stronger than weak)     |
-| 3   | Moondew                   | Moderate healing or calming effect                       |
-| 4   | Bat's Blood               | Dark, cursed, or death-related effects (weak/moderate)   |
-| 5   | Snake Venom               | Moderate poison or vitality-boosting effect              |
-| 6   | Mermaid Tears             | Moderate emotional manipulation or charm effects         |
-| 7   | Dragon's Blood Resin      | Strong (enhances strength, vitality, or magic)           |
-| 8   | Arcane Essence            | Magical or elemental effects (moderate to strong)        |
-| 9   | Phoenix Feather Infusion  | Very strong, regeneration or fire-related effects        |
-| 10  | Astral Water              | Divination or strong healing effects (very strong) |
+| #   | Suspension               | Strength Description (Determines Potion Strength)      |
+| --- | ------------------------ | ------------------------------------------------------ |
+| 1   | Spring Water             | Weak (minor effect)                                    |
+| 2   | Distilled Vinegar        | Moderate (poisons and antidotes, stronger than weak)   |
+| 3   | Moondew                  | Moderate healing or calming effect                     |
+| 4   | Bat's Blood              | Dark, cursed, or death-related effects (weak/moderate) |
+| 5   | Snake Venom              | Moderate poison or vitality-boosting effect            |
+| 6   | Mermaid Tears            | Moderate emotional manipulation or charm effects       |
+| 7   | Dragon's Blood Resin     | Strong (enhances strength, vitality, or magic)         |
+| 8   | Arcane Essence           | Magical or elemental effects (moderate to strong)      |
+| 9   | Phoenix Feather Infusion | Very strong, regeneration or fire-related effects      |
+| 10  | Astral Water             | Divination or strong healing effects (very strong)     |
 
 ---
 
@@ -73,8 +75,8 @@
 | Clover (Four-leaf)  | Mermaid Tears        | Potion of Charm (The drinker is charmed by a nearby creature for 1 minute)                                                                                          |
 | Fennel Silk         | Spring Water         | Healing Salve (Restores 1d4 hit points when applied)                                                                                                                |
 | Fennel Silk         | Arcane Essence       | Potion of Regeneration (Heals 1d6 hit points per round for 1 minute)                                                                                                |
-| Frost Moss          | Spring Water         | Potion of Cold Resistance (Grants resistance to cold damage for 1 hour)                                                                                             |
-| Frost Moss          | Arcane Essence       | Potion of Protection (Cold) (Grants immunity to cold damage for 1 hour)                                                                                             |
+| Environmental Moss          | Spring Water         | Potion of Elemental Resistance (Grants resistance based on the region the moss was taken from for 1 hour)                                                                                             |
+| Environmental Moss          | Arcane Essence       | Potion of Elemental Immunity (Grants immunity to the region the Moss was taken from for 1 hour)                                                                                             |
 | Garlic              | Spring Water         | Potion of Protection from Undead (Undead have disadvantage to hit you for 1 hour)                                                                                   |
 | Garlic              | Bat's Blood          | Potion of Vampiric Resistance (Grants resistance to necrotic damage for 1 hour)                                                                                     |
 | Ginger              | Snake Venom          | Potion of Health (Restores 1d6 hit points and cures one condition)                                                                                                  |
@@ -179,7 +181,7 @@ When a player mixes herbs and suspensions that do not result in a potion it crea
 | 4        | Boosted Senses (advantage on perception checks for 1 hour)         |
 | 5        | Temporary Insight (advantage on insight checks for 1 hour)         |
 | 6        | Speed Boost (your speed increases by 10 feet for 1 minute)         |
-| 7        | Minor Regeneration (heal 1 hit point per minute for 1 hour)        |
+| 7        | Minor Regeneration (heal 2 hit points per turn for 1 hour)         |
 | 8        | Darkvision (gain darkvision out to 60 feet for 1 hour)             |
 | 9        | Fire Resistance (resistance to fire damage for 1 hour)             |
 | 10       | Magical Aura (+1 to AC for 10 minutes)                             |
