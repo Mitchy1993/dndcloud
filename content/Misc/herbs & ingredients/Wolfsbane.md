@@ -1,2 +1,2 @@
 ![[Wolfsbane.png]]
-https://www.dandwiki.com/wiki/Wolfsbane_(5e_Equipment)
+A variation of [[Belladonna]] that begins growing in a region after a werewolf has died there.
