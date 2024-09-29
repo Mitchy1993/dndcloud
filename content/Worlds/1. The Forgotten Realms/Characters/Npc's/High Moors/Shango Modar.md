@@ -58,4 +58,4 @@ When Shango was 30 years old he decided to leave the pack to track down his moth
 
 His two closest friends Luna & Fenrir asked Shango to perform "*The Biting*" on them as a sign of love and solidarity despite whatever the future may bring. Shango obliged, mixing their werewolf blood with vampirism creating hybrid spawns.
 
-He never found his mother, but he did find a family in the Order of the [[Blood Hunters]]. He now serves as a lieutenant, alongside Fade, working for [[Lyra Dawnfury]].
+Shango tried but was never able to find his parents, however he did find a family in the Order of the [[Blood Hunters]]. He now serves as a lieutenant, alongside Fade, working for [[Lyra Dawnfury]].

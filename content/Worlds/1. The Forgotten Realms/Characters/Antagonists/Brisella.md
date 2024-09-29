@@ -1,5 +1,5 @@
 ![[Brisella Throne.png]]
-Gnoll trainer who used [[Linsella]]'s notes to complete the dangerous work of Gnoll Mastery.
+Gnoll trainer who used her sister [[Linsella]]'s notes to complete the dangerous work of Gnoll Mastery.
 - Dark skinned
 - Deliberate and condescending speech pattern
 - Missing left hand
