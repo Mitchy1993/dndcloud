@@ -11,7 +11,7 @@ https://forgottenrealms.fandom.com/wiki/Nether_Scrolls
 - Player must obtain at least one success in order to not be driven [[long-term-madness|Mad]]
 - The party levels up for every success
 
-After the skill challenge is completed successfully the reader knows the [[Plot of Karthus]] & the history of [[Karsus's Folly]]
+After the skill challenge is completed successfully the reader knows the [[Plot of Karthus]] & the history of [[Karsus Lore]]
 - Success on 2 or more allows the player to gain a [[Nether Scrolls#5 Chapters|chapter]] power of their choice.
 
 The unlocking of the Nether Scrolls alerts [[Karthus]] and after the party gains the knowledge they must make a DC 26 Arcana or Constitution save to hang onto the scroll as every character who leveled up suffers the effects of a 9th level [[thunderwave]].

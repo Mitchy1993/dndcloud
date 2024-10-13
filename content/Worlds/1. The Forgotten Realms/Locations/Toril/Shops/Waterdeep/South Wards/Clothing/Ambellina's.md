@@ -6,7 +6,7 @@ Owner - [[Ambellina Bigz]], Wife of [[Gary Bigz]]
 	- *or wat deys tinks dey got comin to em"*
 
 ### Special Items's
-[[Custom Clothes]]
+[[Wonderous Trinkets-Clothes]]
 [[robe-of-useful-items|Robe of Useful Items]] - 700 gp
 [[Garment of Shrinking]] - 300 gp
 

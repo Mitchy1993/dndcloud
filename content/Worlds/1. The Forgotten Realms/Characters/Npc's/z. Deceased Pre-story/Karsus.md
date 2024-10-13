@@ -1,11 +1,11 @@
 **Lord Karsus: The Netherese Archwizard**
-
+[[Karsus Lore]]
 - **Background:**
-  - Born in Netheril in 3163 NY (−696 DR) to Radman.
+  - Born in [[Netheril]] in 3163 NY (−696 DR) to Radman.
   - Displayed magical talent from a young age.
   - Founded a radical school of magic in his enclave.
 
-- **Creation of Karsus's Avatar:**
+- **Karsus' Folly:**
   - Developed the spell _Karsus's avatar_.
   - Cast the spell in 3520 NY (−339 DR) targeting Mystryl.
   - Intended to gain power to unite Netheril against phaerimm.
@@ -22,5 +22,3 @@
 
 - **Legacy:**
   - Worshiped by a small cult as the "momentary god".
-  - Creation of karsites, a race distrustful yet resistant to magic.
-  - Encounter in 1372 DR with an adventurer who could potentially redeem him from torment.

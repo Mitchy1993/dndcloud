@@ -107,7 +107,8 @@ _Source: SRD / Basic Rules_
 - The creature automatically **fails Strength** and **Dexterity** saving throws.  
 - Attack rolls against the creature have ***advantage***.  
 - Any attack that hits the creature is a **critical hit** if the attacker is within 5 feet of the creature.
-- Attacks made by the creature are made at ***disadvantage*** & saving throws it forces other creatures to make are made with ***advantage***
+- To perform an attack or cast a spell the creature must make a DC 15 CON check.
+	- Attacks made by the creature are made at ***disadvantage*** & saving throws it forces other creatures to make are made with ***advantage***, if the creature has advantage from another source they automatically succeed.
 
 ## Petrified
 _Source: SRD / Basic Rules_
@@ -144,7 +145,7 @@ _Source: SRD / Basic Rules_
 - Stunned creatures have a **speed of 0**
 - The creature automatically **fails Strength** and **Dexterity** saving throws.  
 - Attack rolls against the creature have ***advantage***.  
-- Attacks made by the creature are made at ***disadvantage*** & saving throws it forces other creatures to make are made with ***advantage***
+- Attacks made by the creature are made at ***disadvantage*** & saving throws it forces other creatures to make are made with ***advantage***, the creature has advantage from another source they automatically pass the saving throw.
 
   
 ## Suffocating
@@ -153,7 +154,7 @@ A creature can hold its breath for a number of minutes equal to 1 + its Constitu
 
 When a creature runs out of breath or is choking, it is **_incapacitated_** and can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it **_dies_**.
 
-*For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to be exposed to air before it dies.
+*For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to be exposed to air before it drops to 0 hit points, subsequent death saving throws are automatic failures while still suffocating.*
 
 ## Surprised
 Occurs when an malicious act initiates combat with a stealth roll superior to the victim's passive perception; in rare circumstantial moments even allies may be surprised by certain actions.

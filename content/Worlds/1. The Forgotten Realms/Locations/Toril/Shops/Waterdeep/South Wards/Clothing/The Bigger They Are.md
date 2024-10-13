@@ -4,7 +4,7 @@ Ownder: [[Gary Bigz]]
 *"The bigger they are... The better their prices!"*
 
 ### Special Item's
-[[Custom Clothes]]
+[[Wonderous Trinkets-Clothes]]
 [[cloak-of-protection|Cloak of Protection]] - 500 gp
 [[Garment of Enlargement]] 500gp 
 

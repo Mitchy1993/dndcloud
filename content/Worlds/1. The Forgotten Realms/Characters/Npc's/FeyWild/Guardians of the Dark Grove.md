@@ -6,7 +6,7 @@
 *Fey Children of Elemental Deities*
 - Lumina - Light [[Lathander]] - Mini = HF
 - Terra - Earth - [[Chauntea]] - Mini = Earth Golem
-- Zephyra - Wind [[Akadi]] - Mini HF
+- Zephra - Wind [[Akadi]] - Mini HF
 - Aquara - Water [[Umberlee]] - Mini = Water Elemental 
 - Ignis - Fire [[Kossuth]] - Mini = HF
 - Sylva - Forests [[Silvanus]] - Mini = HF
