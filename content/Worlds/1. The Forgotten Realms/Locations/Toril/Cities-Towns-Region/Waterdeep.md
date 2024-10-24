@@ -36,16 +36,12 @@ After Hours:
 ### Waterdeep
 > [!infobox]
 > # `=this.file.name`
-> ![[]]
+> ![[The Gemfire.png]]
 > ######  
 > Party |  [[Renown]] |
 > |--|---|
 > JB, Cer, Dom, Ty | 10 (Minor)(Unthril/Whiskey) |
 > [[The Loss of Elias Thorne]] | 0 |
-> ###### Key Members
-> ```dataview
-table Race, Gender
-where contains(AssociatedGroup, this.file.name) 
 
 **Part of the [[Lord's Alliance]]**
 **Social Hubs:** [[Yawning Portal]], [[Evernight]], [[Waterdeep Entertainment Schedule]]

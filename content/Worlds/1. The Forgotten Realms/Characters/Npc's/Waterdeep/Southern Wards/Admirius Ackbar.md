@@ -29,10 +29,10 @@ Gender: Male
 ---
 
 
-![[Lord Ackbar.jpg]]
+![[Lord Ackbar.jpg|500]]
 [[Triton]] leader of the [[Order of Tye]]... He thinks *everything* is a trap
 
-Admirius Ackbar left the [[Elemental Planes]](Water) in a attempt to "seek his destiny"
+Admirius Ackbar left the [[Elemental Planes|Elemental Plane of Water]] in a attempt to "seek his destiny"
 <small>(In reality, he just got made fun of because he looked nothing like a normal triton and they claimed he *"didn't belong anywhere in this world*.")<big>
 <small> (Eventually he couldn't take it and decided to start fresh somewhere else)<big>
 
