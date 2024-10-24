@@ -7,10 +7,10 @@ tags:
 > # `=this.file.name`
 > ![[Lathander_symbol.png]]
 > ######  
-> Party |  Renown |
+> Party |  [[Renown]] |
 > |--|---|
 > JB, Cer, Dom, Ty | 21 (Max) |
-> [[Gloom Squad]] | 0 |
+> [[The Loss of Elias Thorne]] | 0 |
 > ###### Key Members
 > **Tim:** *"The Right & Left Hand*
 > ```dataview

@@ -43,7 +43,7 @@ Operating in the industrial, steampunk city of **Melvaunt**, **The Clockwork Han
 - **Garrick "Ironhand" Voss**  - **Shadar-kai**
   Brutal enforcer with a mechanical arm, managing heavy operations.
 
-- Liam "The Tinkerer" Fenn - Shadar-kai**
+- Liam "The Tinkerer" Fenn - **Shadar-kai**
 Tech genius responsible for gadgets and mechanical sabotage.
 
 - **Marcus "Steamwraith" Thorne**  - **Half-Elf** *(Brother of Elias)*
@@ -52,7 +52,7 @@ Tech genius responsible for gadgets and mechanical sabotage.
 - **"Clockwork"**  **Half Shadarkai- Half Warforged**
 Mastermind who orchestrates industrial heists with mechanical precision; Gunslinger Ace
 - **Elias Thorne** **Half-Elf** *Brother of Marcus* *(Deceased)*
-Protege of Killan Nanther, personally trained by the boss to be his successor.
+Protégé of Killian Nanther, personally trained by the boss to be his successor.
 
 #### Flying Mechanical Gargoyle:
 - **Smokey**  

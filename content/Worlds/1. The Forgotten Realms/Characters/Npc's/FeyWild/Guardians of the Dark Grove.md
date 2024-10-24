@@ -13,8 +13,8 @@
 ## [[Corvid Conclave]]
 *Servants of the [[Raven Queen]]*
 - Nyx - Memories - Mini = Gleams Shadow - WBtW
-	- Would like to see [[Plot of Lloth]] succeed. Would strengthen [[Raven Queen]]/[[Plot of the Raven Queen]]
+	- Would like to see [[Plot of Lolth]] succeed. Would strengthen [[Raven Queen]]/[[Plot of the Raven Queen]]
 - Umbra - Death/Darkness - Mini = Shadow
-	- Would like to see [[Plot of Lloth]] succeed. Would strengthen [[Raven Queen]]/[[Plot of the Raven Queen]]
+	- Would like to see [[Plot of Lolth]] succeed. Would strengthen [[Raven Queen]]/[[Plot of the Raven Queen]]
 - [[Big Jim]](*Jimothy*) - Fate  - Mini = Reid's Warlock/Gramps
 	- Wants to see the Raven Queen reclaim her former self and ascend.

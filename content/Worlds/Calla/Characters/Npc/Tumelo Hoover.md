@@ -1,2 +1,2 @@
 ![[Tumelo Hoover.png|500]]
-Town Warden of [[Vesper Falls]] works split shift as something else most likely
+Town Warden of [[Vesper Falls]] and general store manager.

@@ -1,16 +1,40 @@
-**Lord Peneshay: Ex-Leader of the Order of Tye**
+---
+NoteIcon: npc
+aliases:
+  - "The Old Guardian"
+tags:
+  - veteran
+Player: NPC
+Role: Former Leader of the Order of Tye
+Class:
+  - Knight
+Race:
+  - Dwarf
+Age: 195
+Hometown: Waterdeep
+level: 8
+hp: 120
+ac: 17
+modifier: 3
+pasperc: 14
+Status:
+  - Retired
+PlayerKnownLanguages:
+  - Common
+  - Dwarvish
+  - Draconic
+AssociatedGroup: Order of Tye
+Gender: Male
+---
 
-- **Background:**
-  - Headed the Order of Tye, guarding the Lords' Alliance in 1372 DR.
-  
-- **Leadership and Prestige:**
-  - Instituted rigorous trials for squires, filtering out the weak.
-  - Attracted numerous young knights, enhancing the order's renown.
-  
-- **Trials and Tests:**
-  - Sent Squires Blancheflor, Launfal, and Camelon to slay the Mighty Rat of Cunning Demeanor.
-  - Considered a Knight's Trial, a dangerous and formidable task.
-  
-- **Achievements:**
-  - Blancheflor and Launfal succeeded, capturing the feared beast.
-  - Presented the Mighty Rat of Cunning Demeanor to Lord Peneshay as their captive.
+#### **Overview**  
+Lord Peneshay is a renowned dwarf knight and former leader of the **Order of Tye**.
+
+#### **Leadership**  
+From 1372 DR until his retirement in the late 15th century, Peneshay expanded the Order’s role from escorting dignitaries to safeguarding Waterdeep’s naval forces.
+
+#### **Rescue & Mentorship**  
+In 1495 DR, Peneshay was saved by Triton **Admirius Ackbar** during a pirate ambush. Recognizing Ackbar's potential, Peneshay mentored him, eventually passing leadership to him in 1485 DR.
+
+#### **Legacy**  
+Though retired, Peneshay remains an influential figure and is rumored to still advise Ackbar in secret.

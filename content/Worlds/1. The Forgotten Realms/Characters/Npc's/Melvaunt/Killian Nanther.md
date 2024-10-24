@@ -12,4 +12,4 @@ Killian focuses mostly on the material plain with [[Shadow Syndicate#**The Clock
 
 Son of [[Warren Nanther]]
 
-DM ONLY: [[Killian Nanther Statblock|Statblock]]
+DM ONLY: [[Shadow Syndicate Statblocks|Statblock]]

@@ -1,6 +1,7 @@
 <small> Sorcerer of [[The Forgotten]] <big>
-![[Eldrin.jpg]]
+![[Eldrin.jpg|500]]
 [[Eldrin.png]]
+![[WeaveEater Statblocks#Eldrin]]
 Previously a powerful sorcerer, and one of the [[Lords of Waterdeep]]. 
 
 Eldrin willingly studied at [[Blackstaff Tower]], despite his innate abilities, Eldrin was fascinated by the [[Weave]] and it's power. He experimented with how it flows through all things and it's ability to connect the world.

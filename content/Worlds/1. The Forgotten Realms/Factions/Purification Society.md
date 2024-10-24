@@ -24,13 +24,13 @@ where contains(AssociatedGroup, this.file.name)
 
 # `=this.file.name` Ideology
 
-1. Race Supremacy: The Purification Society believes in the inherent superiority of certain races, which they claim are descended directly from the ancient Creator Races. These "pure" races are considered the rightful rulers of the world, while other races are seen as corruptions or deviations from the divine plan. The Society seeks to preserve the racial hierarchy by hunting and exterminating so-called inferior races.
+1. **Race Supremacy**: The Purification Society believes in the inherent superiority of certain races, which they claim are descended directly from the ancient Creator Races. These "pure" races are considered the rightful rulers of the world, while other races are seen as corruptions or deviations from the divine plan. The Society seeks to preserve the racial hierarchy by hunting and exterminating so-called inferior races.
 
 
-2. Artistic Hunting: The Society sees hunting as an art form. Their members pride themselves on mastering the strategy, combat techniques, and rituals involved in hunting inferior races. This is not just warfare; it is a sacred and aesthetic practice for the Society, symbolizing the restoration of balance and purity to the world.
+2. **Artistic Hunting**: The Society sees hunting as an art form. Their members pride themselves on mastering the strategy, combat techniques, and rituals involved in hunting inferior races. This is not just warfare; it is a sacred and aesthetic practice for the Society, symbolizing the restoration of balance and purity to the world.
 
 
-3. Prophecy of Redemption: Central to the Society’s mission is a prophecy they claim to have unearthed from ancient texts of the Creator Races. It foretells that the world can only be returned to its utopian state by purging all inferior races. The Society views this task as their divine duty, believing they are the chosen instruments to make the "tough choices" necessary to bring about the prophecy’s fulfillment.
+3. **Prophecy of Redemption**: Central to the Society’s mission is a prophecy they claim to have unearthed from ancient texts of the Creator Races. It foretells that the world can only be returned to its utopian state by purging all inferior races. The Society views this task as their divine duty, believing they are the chosen instruments to make the "tough choices" necessary to bring about the prophecy’s fulfillment.
 
 ### Badge Always Kept by Members
 ![[Purification Society Badge.jpg|250]]
@@ -91,15 +91,15 @@ The Purification Society believes that certain races are divinely ordained to sh
 
 The Purification Society draws much of its ideology from ancient texts and interpretations of the Creator Races, the first beings who shaped the world of Toril in its early days. They believe that the superior races are directly descended from these beings, while inferior races are either corruptions of the Creator Races’ work or were created by dark gods and demons.
 
-Sarrukh: The Society acknowledges the sarrukh’s role in creating many reptilian races but views those creations as flawed or incomplete. Races like yuan-ti and lizardfolk are seen as failed experiments, deserving of destruction.
+**Sarrukh**: The Society acknowledges the sarrukh’s role in creating many reptilian races but views those creations as flawed or incomplete. Races like yuan-ti and lizardfolk are seen as failed experiments, deserving of destruction.
 
-Aearee: The Society venerates the avian Aearee as creators of noble bird-like beings, but considers races like kenku a tragic fall from their former glory.
+**Aearee**: The Society venerates the avian Aearee as creators of noble bird-like beings, but considers races like kenku a tragic fall from their former glory.
 
-Batrachi: The amphibious races created by the Batrachi, such as trolls and troglodytes, are considered primitive and chaotic, contributing nothing to civilization and thus marked for extinction.
+**Batrachi**: The amphibious races created by the Batrachi, such as trolls and troglodytes, are considered primitive and chaotic, contributing nothing to civilization and thus marked for extinction.
 
-Fey: The Society places great importance on the fey's influence, holding elves in particular reverence as the direct descendants of these magical beings.
+**Fey**: The Society places great importance on the fey's influence, holding elves in particular reverence as the direct descendants of these magical beings.
 
-Giants/Titans: Dwarves, goliaths, and even humans are believed to be linked to the work of the Creator Giants or titans, who shaped the world with strength and endurance. The Society sees these races as essential to upholding civilization.
+**Giants/Titans**: Dwarves, goliaths, and even humans are believed to be linked to the work of the Creator Giants or titans, who shaped the world with strength and endurance. The Society sees these races as essential to upholding civilization.
 
 
 

@@ -41,7 +41,7 @@ After Hours:
 > Party |  [[Renown]] |
 > |--|---|
 > JB, Cer, Dom, Ty | 10 (Minor)(Unthril/Whiskey) |
-> [[Gloom Squad]] | 0 |
+> [[The Loss of Elias Thorne]] | 0 |
 > ###### Key Members
 > ```dataview
 table Race, Gender

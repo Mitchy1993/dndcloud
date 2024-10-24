@@ -13,10 +13,11 @@ NoteIcon: group
 > # `=this.file.name`
 > ![[Blood Hunters.png]]
 > ######  
-> Party |  Renown |
-> |--|---|
-> JB, Cer, Dom, Ty | -1 |
-> [[Gloom Squad]] | 0 |
+| Party                          | Renown |
+|--------------------------------|--------|
+| JB, Cer, Dom, Ty              | -1     |
+| [[The Loss of Elias Thorne]]  | 0      |
+
 > ###### Key Members
 > ```dataview
 table Race, Gender
